@@ -55,7 +55,7 @@
             
             watchID = navigator.accelerometer.watchAcceleration(onSuccess, onError, options);
         }
-        
+
         // Stop watching the acceleration
         //
         function stopWatch() {
@@ -69,10 +69,9 @@
         //
         function onSuccess(acceleration) {
             var element = document.getElementById('accelerometer');
-            alert("you're a tool");
-            element.innerHTML = 'Acceleration X: ' + acceleration.x + '<br />' +
-            'Acceleration Y: ' + acceleration.y + '<br />' +
-            'Acceleration Z: ' + acceleration.z + '<br />' +
+           
+            element.innerHTML = '<h3>Acceleration X: ' + Math.round(acceleration.x*Math.pow(10,2))/Math.pow(10,2) + '</h3><br />' +
+            '<h3> Acceleration Y: ' + Math.round(acceleration.y*Math.pow(10,2))/Math.pow(10,2) + '</h3><br /><br /><br />' +
             'Timestamp: '      + acceleration.timestamp + '<br />';
         }
         
@@ -86,7 +85,7 @@
     </script>
   </head>
   <body onload="onBodyLoad()">
-  	  <h1>Hey, it's PhoneGap!</h1>
+  	  <h1>Domo arigato, Mr. Coroboto</h1>
       <p id = "accelerometer">
         
       </p>
