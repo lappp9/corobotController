@@ -70,15 +70,14 @@
         //
         function onSuccess(acceleration) {
             var element = document.getElementById('accelerometer');
-<<<<<<< HEAD
+
             element.innerHTML = 'Acceleration X: ' + acceleration.x + '<br />' +
             'Acceleration Y: ' + acceleration.y + '<br />' +
             'Acceleration Z: ' + acceleration.z + '<br />' +
-=======
+
            
             element.innerHTML = '<h3>Acceleration X: ' + Math.round(acceleration.x*Math.pow(10,2))/Math.pow(10,2) + '</h3><br />' +
             '<h3> Acceleration Y: ' + Math.round(acceleration.y*Math.pow(10,2))/Math.pow(10,2) + '</h3><br /><br /><br />' +
->>>>>>> d333781cd66ef1b1152829b65ca8da9475a038d7
             'Timestamp: '      + acceleration.timestamp + '<br />';
         }
         
