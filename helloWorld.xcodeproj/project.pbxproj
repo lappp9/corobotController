@@ -456,6 +456,7 @@
 				AE060F48141ED77300DFCBF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
