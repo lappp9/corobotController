@@ -79,6 +79,17 @@
             element.innerHTML = '<h3>Acceleration X: ' + Math.round(acceleration.x*Math.pow(10,2))/Math.pow(10,2) + '</h3><br />' +
             '<h3> Acceleration Y: ' + Math.round(acceleration.y*Math.pow(10,2))/Math.pow(10,2) + '</h3><br /><br /><br />' +
             'Timestamp: '      + acceleration.timestamp + '<br />';
+            
+            jsonObjectMaker(acceleration.x,acceleration.y,acceleration.z);
+            
+            var jsonObjectMaker = function (x,y,z) {
+                var updatedPosition = {
+                    x: x,
+                    y: y,
+                    z: z,
+                };
+            };
+            
         }
         
         // onError: Failed to get the acceleration
