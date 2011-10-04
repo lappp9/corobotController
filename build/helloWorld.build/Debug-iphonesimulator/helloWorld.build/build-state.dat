@@ -1,7 +1,7 @@
 ThelloWorld
 v7
 r0
-t339032893.916536
+t339397786.466248
 cCheck dependencies
 cProcessInfoPlistFile "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/Info.plist" helloWorld/helloWorld-Info.plist
 cProcessPCH /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fqhixsnmawvkzkescgqkqviaxtcw/helloWorld-Prefix.pch.gch helloWorld/helloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
@@ -243,186 +243,368 @@ t1317043711
 s1158520
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app
-t1317340093
+t1317704986
 s510
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app.dSYM
-t1317170915
+t1317704948
 s102
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/Capture.bundle
-t1317170915
+t1317670705
 s578
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/Default.png
-t1317170914
+t1317670705
 s13226
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/Default@2x.png
-t1317170914
+t1317670705
 s32666
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/Info.plist
-t1317170913
-s940
+t1317704986
+s820
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/PhoneGap.plist
-t1317170915
+t1317670705
 s810
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/PkgInfo
-t1317170913
+t1317704986
 s8
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/en.lproj/InfoPlist.strings
-t1317170914
+t1317670705
 s42
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/en.lproj/Localizable.strings
-t1317170914
+t1317670705
 s142
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/es.lproj/Localizable.strings
-t1317170915
+t1317670705
 s308
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld
-t1317170914
+t1317704948
 s274336
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/icon-72.png
-t1317170914
+t1317670705
 s5049
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/icon.png
-t1317170914
+t1317670705
 s3126
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/icon@2x.png
-t1317170915
+t1317670705
 s5340
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/www
-t1317340093
+t1317670705
 s136
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/AppDelegate.o
-t1317170914
+t1317704947
 s55440
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorld.LinkFileList
-c000000004E826EE10000000000000137
-t1317170913
+c000000004E8A94F30000000000000137
+t1317704947
 s311
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o
-t1317170914
+t1317704947
 s6844
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Script-AE060EFA141ED77200DFCBF1.sh
-c000000004E826EE10000000000000270
-t1317170913
+c000000004E8A0F310000000000000270
+t1317670705
 s624
 
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app
+t1317704527
+s510
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app.dSYM
+t1317704527
+s102
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/Capture.bundle
+t1317670705
+s578
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/Default.png
+t1317670705
+s13226
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/Default@2x.png
+t1317670705
+s32666
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/Info.plist
+t1317704526
+s854
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/PhoneGap.plist
+t1317670705
+s810
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/PkgInfo
+t1317704526
+s8
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/en.lproj/InfoPlist.strings
+t1317670705
+s42
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/en.lproj/Localizable.strings
+t1317670705
+s142
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/es.lproj/Localizable.strings
+t1317670705
+s308
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld
+t1317704527
+s274444
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/icon-72.png
+t1317670705
+s5049
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/icon.png
+t1317670705
+s3126
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/icon@2x.png
+t1317670705
+s5340
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/www
+t1317670705
+s136
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/AppDelegate.o
+t1317704526
+s55476
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorld.LinkFileList
+c000000004E8A934E000000000000015B
+t1317704526
+s347
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o
+t1317704526
+s6880
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Script-AE060EFA141ED77200DFCBF1.sh
+c000000004E8A0F310000000000000270
+t1317670705
+s624
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Classes/AppDelegate.h
+c000000004E8A0F310000000000000288
+t1317670705
+s648
+i<UIKit/UIKit.h>
+i<PhoneGap/PhoneGapDelegate.h>
+i"PhoneGapDelegate.h"
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Classes/AppDelegate.m
+c000000004E8A0F310000000000000D0E
+t1317670705
+s3342
+i"AppDelegate.h"
+i<PhoneGap/PhoneGapViewController.h>
+i"PhoneGapViewController.h"
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/PhoneGap.plist
+c000000004E8A0F310000000000000560
+t1317670705
+s1376
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Resources/Capture.bundle
+c000000004E8A0F310000000000000242
+t1317670705
+s578
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Resources/en.lproj/Localizable.strings
+c000000004E8A0F310000000000000248
+t1317670705
+s584
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Resources/es.lproj/Localizable.strings
+c000000004E8A0F310000000000000254
+t1317670705
+s596
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Resources/icons/icon-72.png
+c000000004E8A0F3100000000000013B9
+t1317670705
+s5049
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Resources/icons/icon.png
+c000000004E8A0F310000000000000C36
+t1317670705
+s3126
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Resources/icons/icon@2x.png
+c000000004E8A0F3100000000000014DC
+t1317670705
+s5340
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Resources/splash/Default.png
+c000000004E8A0F3100000000000033AA
+t1317670705
+s13226
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Resources/splash/Default@2x.png
+c000000004E8A0F310000000000007F9A
+t1317670705
+s32666
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/en.lproj/InfoPlist.strings
+c000000004E8A0F31000000000000002D
+t1317670705
+s45
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/helloWorld-Prefix.pch
+c000000004E8A0F310000000000000097
+t1317670705
+s151
+i<UIKit/UIKit.h>
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/main.m
+c000000004E8A0F31000000000000016B
+t1317670705
+s363
+i<UIKit/UIKit.h>
+
+N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/www
+c000000004E8A0F3100000000000000EE
+t1317670705
+s238
+
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Classes/AppDelegate.h
-c000000004E826D990000000000000288
-t1317170585
+c000000004E8A0F310000000000000288
+t1317670705
 s648
 i<UIKit/UIKit.h>
 i<PhoneGap/PhoneGapDelegate.h>
 i"PhoneGapDelegate.h"
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Classes/AppDelegate.m
-c000000004E826D990000000000000D0E
-t1317170585
+c000000004E8A0F310000000000000D0E
+t1317670705
 s3342
 i"AppDelegate.h"
 i<PhoneGap/PhoneGapViewController.h>
 i"PhoneGapViewController.h"
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/PhoneGap.plist
-c000000004E826D990000000000000560
-t1317170585
+c000000004E8A0F310000000000000560
+t1317670705
 s1376
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Resources/Capture.bundle
-c000000004E826D990000000000000242
-t1317170585
+c000000004E8A0F310000000000000242
+t1317670705
 s578
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Resources/en.lproj/Localizable.strings
-c000000004E826D990000000000000248
-t1317170585
+c000000004E8A0F310000000000000248
+t1317670705
 s584
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Resources/es.lproj/Localizable.strings
-c000000004E826D990000000000000254
-t1317170585
+c000000004E8A0F310000000000000254
+t1317670705
 s596
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Resources/icons/icon-72.png
-c000000004E826D9900000000000013B9
-t1317170585
+c000000004E8A0F3100000000000013B9
+t1317670705
 s5049
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Resources/icons/icon.png
-c000000004E826D990000000000000C36
-t1317170585
+c000000004E8A0F310000000000000C36
+t1317670705
 s3126
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Resources/icons/icon@2x.png
-c000000004E826D9900000000000014DC
-t1317170585
+c000000004E8A0F3100000000000014DC
+t1317670705
 s5340
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Resources/splash/Default.png
-c000000004E826D9900000000000033AA
-t1317170585
+c000000004E8A0F3100000000000033AA
+t1317670705
 s13226
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Resources/splash/Default@2x.png
-c000000004E826D990000000000007F9A
-t1317170585
+c000000004E8A0F310000000000007F9A
+t1317670705
 s32666
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/en.lproj/InfoPlist.strings
-c000000004E826D99000000000000002D
-t1317170585
+c000000004E8A0F31000000000000002D
+t1317670705
 s45
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/helloWorld-Prefix.pch
-c000000004E826D990000000000000097
-t1317170585
+c000000004E8A0F310000000000000097
+t1317670705
 s151
 i<UIKit/UIKit.h>
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/main.m
-c000000004E826D99000000000000016B
-t1317170585
+c000000004E8A0F31000000000000016B
+t1317670705
 s363
 i<UIKit/UIKit.h>
 
 N/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www
-c000000004E8503BB00000000000000AA
-t1317340091
-s170
+c000000004E8A0F3100000000000000EE
+t1317670705
+s238
 
 N/var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fqhixsnmawvkzkescgqkqviaxtcw/helloWorld-Prefix.pch.gch
-t1317170914
+t1317704947
+s12324272
+
+N/var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fwmascniwixnkubklxukpnymyeyq/helloWorld-Prefix.pch.gch
+t1317704526
 s12324272
 
 NhelloWorld/helloWorld-Info.plist
-c000000004E826D9900000000000005BE
-t1317170585
-s1470
+c000000004E8A951900000000000005C7
+t1317704985
+s1479
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies339032893#339032893#0(0"0(0#1#0"8612746208#0"0#
+lSLF07#2@18"Check dependencies339397786#339397786#0(0"0(0#1#0"8606912096#0"0#
+
+CCompileC build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/AppDelegate.o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s339397326.676784
+e339397326.853056
+r1
+xCompileC
+xbuild/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/AppDelegate.o
+x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@121"Compile /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Classes/AppDelegate.m339397326#339397326#0(0"0(0#0#113"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Classes/AppDelegate.m8602012448#1989"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld.hmap" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/include" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources" -include /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fwmascniwixnkubklxukpnymyeyq/helloWorld-Prefix.pch -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/Classes/AppDelegate.m" -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/AppDelegate.o"0#
 
 CCompileC build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/AppDelegate.o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
-s338863714.532923
-e338863714.677520
+s339397747.755598
+e339397747.927253
 r1
 xCompileC
 xbuild/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/AppDelegate.o
@@ -431,11 +613,24 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF07#2@103"Compile /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Classes/AppDelegate.m338863714#338863714#0(0"0(0#0#95"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Classes/AppDelegate.m8601841152#1845"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld.hmap" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/include" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources" -include /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fqhixsnmawvkzkescgqkqviaxtcw/helloWorld-Prefix.pch -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Classes/AppDelegate.m" -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/AppDelegate.o"0#
+lSLF07#2@103"Compile /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Classes/AppDelegate.m339397747#339397747#0(0"0(0#0#95"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Classes/AppDelegate.m8607302720#1845"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld.hmap" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/include" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources" -include /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fqhixsnmawvkzkescgqkqviaxtcw/helloWorld-Prefix.pch -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Classes/AppDelegate.m" -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/AppDelegate.o"0#
+
+CCompileC build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s339397326.674679
+e339397326.752626
+r1
+xCompileC
+xbuild/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o
+x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@106"Compile /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/main.m339397326#339397326#0(0"0(0#0#98"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/main.m8604479168#1967"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld.hmap" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/include" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources" -include /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fwmascniwixnkubklxukpnymyeyq/helloWorld-Prefix.pch -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/main.m" -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o"0#
 
 CCompileC build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
-s338863714.531714
-e338863714.598928
+s339397747.754222
+e339397747.837167
 r1
 xCompileC
 xbuild/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o
@@ -444,7 +639,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF07#2@88"Compile /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/main.m338863714#338863714#0(0"0(0#0#80"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/main.m8602302624#1823"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld.hmap" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/include" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources" -include /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fqhixsnmawvkzkescgqkqviaxtcw/helloWorld-Prefix.pch -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/main.m" -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o"0#
+lSLF07#2@88"Compile /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/main.m339397747#339397747#0(0"0(0#0#80"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/main.m8607714976#1823"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld.hmap" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/include" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources" -include /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fqhixsnmawvkzkescgqkqviaxtcw/helloWorld-Prefix.pch -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/main.m" -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o"0#
 
 CCopyPlistFile "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/PhoneGap.plist" helloWorld/PhoneGap.plist
 s338863714.970038
@@ -454,6 +649,9 @@ xCopyPlistFile
 x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/PhoneGap.plist
 xhelloWorld/PhoneGap.plist
 lSLF07#2@30"Copy helloWorld/PhoneGap.plist338863714#338863715#0(0"0(0#0#88"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/PhoneGap.plist8600398592#455"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 helloWorld/PhoneGap.plist --outdir "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app"0#
+
+CCopyPlistFile "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/PhoneGap.plist" helloWorld/PhoneGap.plist
+r0
 
 CCopyStringsFile "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/en.lproj/InfoPlist.strings" helloWorld/en.lproj/InfoPlist.strings
 s338863714.868338
@@ -481,6 +679,15 @@ xCopyStringsFile
 x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/es.lproj/Localizable.strings
 xhelloWorld/Resources/es.lproj/Localizable.strings
 lSLF07#2@54"Copy helloWorld/Resources/es.lproj/Localizable.strings338863714#338863715#0(0"0(0#0#112"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/Resources/es.lproj/Localizable.strings8600254112#561"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary helloWorld/Resources/es.lproj/Localizable.strings --outdir "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/es.lproj"0#
+
+CCopyStringsFile "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/en.lproj/InfoPlist.strings" helloWorld/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/en.lproj/Localizable.strings" helloWorld/Resources/en.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/es.lproj/Localizable.strings" helloWorld/Resources/es.lproj/Localizable.strings
+r0
 
 CCpResource build/Debug-iphonesimulator/helloWorld.app/Capture.bundle helloWorld/Resources/Capture.bundle
 s338863714.967814
@@ -546,46 +753,84 @@ xwww
 lSLF07#2@8"Copy www339032893#339032893#0(0"0(0#0#66"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www8612876992#542"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www" "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app"0#
 
 CGenerateDSYMFile "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app.dSYM" "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld"
-s338863715.020458
-e338863715.036831
+s339397748.021736
+e339397748.038217
 r1
 xGenerateDSYMFile
 x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app.dSYM
 x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld
-lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/helloWorld.app.dSYM build/Debug-iphonesimulator/helloWorld.app/helloWorld338863715#338863715#0(0"0(0#0#116"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld8604082720#470"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld" -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app.dSYM"0#
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/helloWorld.app.dSYM build/Debug-iphonesimulator/helloWorld.app/helloWorld339397748#339397748#0(0"0(0#0#116"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld8606312896#470"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld" -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app.dSYM" "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld"
+s339397327.065539
+e339397327.082215
+r1
+xGenerateDSYMFile
+x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app.dSYM
+x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/helloWorld.app.dSYM build/Debug-iphonesimulator/helloWorld.app/helloWorld339397327#339397327#0(0"0(0#0#134"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld8604372000#524"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld" -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app.dSYM"0#
 
 CLd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld" normal i386
-s338863714.677622
-e338863714.842505
+s339397747.927357
+e339397748.003971
 r1
 xLd
 x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld
 xnormal
 xi386
-lSLF07#2@121"Link /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld338863714#338863714#0(0"0(0#0#0"8599932032#1362"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks -filelist "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorld.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -framework CoreMedia -framework PhoneGap -prebind -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld"0#
+lSLF07#2@121"Link /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld339397747#339397748#0(0"0(0#0#0"8593442464#1362"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks -filelist "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorld.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -framework CoreMedia -framework PhoneGap -prebind -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld"0#
+
+CLd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld" normal i386
+s339397326.853156
+e339397327.039641
+r1
+xLd
+x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld
+xnormal
+xi386
+lSLF07#2@139"Link /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld339397326#339397327#0(0"0(0#0#0"8606624256#1452"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks -filelist "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorld.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -framework CoreMedia -framework PhoneGap -prebind -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/helloWorld"0#
 
 CPhaseScriptExecution "Run Script" "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Script-AE060EFA141ED77200DFCBF1.sh"
-s339032893.898912
-e339032893.913877
+s339397786.433990
+e339397786.458361
 r1
 xPhaseScriptExecution
 xRun Script
 x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Script-AE060EFA141ED77200DFCBF1.sh
 o		AE060F4E141EDBC600DFCBF1 /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };
-lSLF07#2@36"Run custom shell script 'Run Script'339032893#339032893#0(131"		AE060F4E141EDBC600DFCBF1 /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };1(13@131"		AE060F4E141EDBC600DFCBF1 /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };339032893#0#131#0(1@0"0(0#0#0"8613097728#18887"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER scott    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build"    setenv BUILD_ROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build"    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator"    setenv CACHE_ROOT /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app"    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator"    setenv CONFIGURATION_TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator"    setenv CONTENTS_FOLDER_PATH helloWorld.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH helloWorld.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/helloWorld.dst    setenv DWARF_DSYM_FILE_NAME helloWorld.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator"    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH helloWorld.app/Executables    setenv EXECUTABLE_FOLDER_PATH helloWorld.app    setenv EXECUTABLE_NAME helloWorld    setenv EXECUTABLE_PATH helloWorld.app/helloWorld    setenv FILE_LIST "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH helloWorld.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator\" /Users/Shared/PhoneGap/Frameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME helloWorld.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER helloWorld/helloWorld-Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS PHONEGAP_FRAMEWORK=YES    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvmgcc42    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvmgcc42    setenv GCC_WARN_ABOUT_MISSING_PROTOTYPES YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE helloWorld/helloWorld-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH helloWorld.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH helloWorld.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/helloWorld.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER scott    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/helloWorld.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH helloWorld.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-LinkMap-normal-i386.txt"    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorld.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH helloWorld.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K549    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal"    setenv OBJROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build"    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH helloWorld.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/scott/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/PkgInfo"    setenv PKGINFO_PATH helloWorld.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8F192    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40300    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH helloWorld.app/PlugIns    setenv PREBINDING YES    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH helloWorld.app/PrivateHeaders    setenv PRODUCT_NAME helloWorld    setenv PRODUCT_SETTINGS_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/helloWorld-Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT helloWorld    setenv PROJECT_DERIVED_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/DerivedSources"    setenv PROJECT_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv PROJECT_FILE_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld.xcodeproj"    setenv PROJECT_NAME helloWorld    setenv PROJECT_TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build"    setenv PUBLIC_HEADERS_FOLDER_PATH helloWorld.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH helloWorld.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_NAME iphonesimulator4.3    setenv SDK_PRODUCT_BUILD_VERSION 8F192    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/DerivedSources"    setenv SHARED_FRAMEWORKS_FOLDER_PATH helloWorld.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH helloWorld.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv SRCROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/SymbolRepositories"    setenv SYMROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME helloWorld    setenv TARGET_BUILD_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator"    setenv TARGET_NAME helloWorld    setenv TARGET_TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_FILES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_ROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build"    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH helloWorld.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER scott    setenv USER_APPS_DIR /Users/scott/Applications    setenv USER_LIBRARY_DIR /Users/scott/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH helloWorld.app/version.plist    setenv VERSION_INFO_BUILDER scott    setenv VERSION_INFO_FILE helloWorld_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:helloWorld  PROJECT:helloWorld-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME helloWorld.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Script-AE060EFA141ED77200DFCBF1.sh\""0#
+lSLF07#2@36"Run custom shell script 'Run Script'339397786#339397786#0(131"		AE060F4E141EDBC600DFCBF1 /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };1(13@131"		AE060F4E141EDBC600DFCBF1 /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };339397786#0#131#0(1@0"0(0#0#0"8602921248#18887"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER scott    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build"    setenv BUILD_ROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build"    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator"    setenv CACHE_ROOT /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app"    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator"    setenv CONFIGURATION_TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator"    setenv CONTENTS_FOLDER_PATH helloWorld.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH helloWorld.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/helloWorld.dst    setenv DWARF_DSYM_FILE_NAME helloWorld.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator"    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH helloWorld.app/Executables    setenv EXECUTABLE_FOLDER_PATH helloWorld.app    setenv EXECUTABLE_NAME helloWorld    setenv EXECUTABLE_PATH helloWorld.app/helloWorld    setenv FILE_LIST "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH helloWorld.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator\" /Users/Shared/PhoneGap/Frameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME helloWorld.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER helloWorld/helloWorld-Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS PHONEGAP_FRAMEWORK=YES    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvmgcc42    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvmgcc42    setenv GCC_WARN_ABOUT_MISSING_PROTOTYPES YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE helloWorld/helloWorld-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH helloWorld.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH helloWorld.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/helloWorld.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER scott    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/helloWorld.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH helloWorld.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-LinkMap-normal-i386.txt"    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorld.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH helloWorld.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K549    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal"    setenv OBJROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build"    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH helloWorld.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/scott/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/PkgInfo"    setenv PKGINFO_PATH helloWorld.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8F192    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40300    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH helloWorld.app/PlugIns    setenv PREBINDING YES    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH helloWorld.app/PrivateHeaders    setenv PRODUCT_NAME helloWorld    setenv PRODUCT_SETTINGS_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/helloWorld-Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT helloWorld    setenv PROJECT_DERIVED_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/DerivedSources"    setenv PROJECT_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv PROJECT_FILE_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld.xcodeproj"    setenv PROJECT_NAME helloWorld    setenv PROJECT_TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build"    setenv PUBLIC_HEADERS_FOLDER_PATH helloWorld.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH helloWorld.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_NAME iphonesimulator4.3    setenv SDK_PRODUCT_BUILD_VERSION 8F192    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/DerivedSources"    setenv SHARED_FRAMEWORKS_FOLDER_PATH helloWorld.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH helloWorld.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv SRCROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/SymbolRepositories"    setenv SYMROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME helloWorld    setenv TARGET_BUILD_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator"    setenv TARGET_NAME helloWorld    setenv TARGET_TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_FILES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_ROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build"    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH helloWorld.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER scott    setenv USER_APPS_DIR /Users/scott/Applications    setenv USER_LIBRARY_DIR /Users/scott/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH helloWorld.app/version.plist    setenv VERSION_INFO_BUILDER scott    setenv VERSION_INFO_FILE helloWorld_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:helloWorld  PROJECT:helloWorld-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME helloWorld.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Script-AE060EFA141ED77200DFCBF1.sh\""0#
+
+CPhaseScriptExecution "Run Script" "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Script-AE060EFA141ED77200DFCBF1.sh"
+s339397327.082315
+e339397327.107041
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Script-AE060EFA141ED77200DFCBF1.sh
+o		AE060F4E141EDBC600DFCBF1 /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };
+lSLF07#2@36"Run custom shell script 'Run Script'339397327#339397327#0(131"		AE060F4E141EDBC600DFCBF1 /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };1(13@131"		AE060F4E141EDBC600DFCBF1 /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };339397327#0#131#0(1@0"0(0#0#0"8601974048#19679"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController"    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER scott    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build"    setenv BUILD_ROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build"    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator"    setenv CACHE_ROOT /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app"    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator"    setenv CONFIGURATION_TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator"    setenv CONTENTS_FOLDER_PATH helloWorld.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH helloWorld.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/helloWorld.dst    setenv DWARF_DSYM_FILE_NAME helloWorld.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator"    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH helloWorld.app/Executables    setenv EXECUTABLE_FOLDER_PATH helloWorld.app    setenv EXECUTABLE_NAME helloWorld    setenv EXECUTABLE_PATH helloWorld.app/helloWorld    setenv FILE_LIST "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH helloWorld.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator\" /Users/Shared/PhoneGap/Frameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME helloWorld.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER helloWorld/helloWorld-Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS PHONEGAP_FRAMEWORK=YES    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvmgcc42    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvmgcc42    setenv GCC_WARN_ABOUT_MISSING_PROTOTYPES YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE helloWorld/helloWorld-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH helloWorld.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH helloWorld.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/helloWorld.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER scott    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/helloWorld.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH helloWorld.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-LinkMap-normal-i386.txt"    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorld.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH helloWorld.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K549    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal"    setenv OBJROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build"    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH helloWorld.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/scott/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/PkgInfo"    setenv PKGINFO_PATH helloWorld.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8F192    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40300    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH helloWorld.app/PlugIns    setenv PREBINDING YES    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH helloWorld.app/PrivateHeaders    setenv PRODUCT_NAME helloWorld    setenv PRODUCT_SETTINGS_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/helloWorld-Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT helloWorld    setenv PROJECT_DERIVED_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/DerivedSources"    setenv PROJECT_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController"    setenv PROJECT_FILE_PATH "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld.xcodeproj"    setenv PROJECT_NAME helloWorld    setenv PROJECT_TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build"    setenv PUBLIC_HEADERS_FOLDER_PATH helloWorld.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH helloWorld.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_NAME iphonesimulator4.3    setenv SDK_PRODUCT_BUILD_VERSION 8F192    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/DerivedSources"    setenv SHARED_FRAMEWORKS_FOLDER_PATH helloWorld.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH helloWorld.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController"    setenv SRCROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController"    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/SymbolRepositories"    setenv SYMROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME helloWorld    setenv TARGET_BUILD_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator"    setenv TARGET_NAME helloWorld    setenv TARGET_TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_FILES_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_FILE_DIR "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build"    setenv TEMP_ROOT "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build"    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH helloWorld.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER scott    setenv USER_APPS_DIR /Users/scott/Applications    setenv USER_LIBRARY_DIR /Users/scott/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH helloWorld.app/version.plist    setenv VERSION_INFO_BUILDER scott    setenv VERSION_INFO_FILE helloWorld_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:helloWorld  PROJECT:helloWorld-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME helloWorld.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c "\"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Script-AE060EFA141ED77200DFCBF1.sh\""0#
 
 CProcessInfoPlistFile "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/Info.plist" helloWorld/helloWorld-Info.plist
-s338863713.943795
-e338863713.950393
+s339397786.428234
+e339397786.432630
 r1
 xProcessInfoPlistFile
 x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/Info.plist
 xhelloWorld/helloWorld-Info.plist
-lSLF07#2@40"Process helloWorld/helloWorld-Info.plist338863713#338863713#0(0"0(0#0#95"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/helloWorld-Info.plist8030603557343358976#577"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility helloWorld/helloWorld-Info.plist -genpkginfo "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/Info.plist"0#
+lSLF07#2@40"Process helloWorld/helloWorld-Info.plist339397786#339397786#0(0"0(0#0#95"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/helloWorld-Info.plist8605946688#577"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility helloWorld/helloWorld-Info.plist -genpkginfo "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/Info.plist" helloWorld/helloWorld-Info.plist
+s339397326.038928
+e339397326.045537
+r1
+xProcessInfoPlistFile
+x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/Info.plist
+xhelloWorld/helloWorld-Info.plist
+lSLF07#2@40"Process helloWorld/helloWorld-Info.plist339397326#339397326#0(0"0(0#0#113"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/helloWorld-Info.plist8030603557343358976#631"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility helloWorld/helloWorld-Info.plist -genpkginfo "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app/Info.plist"0#
 
 CProcessPCH /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fqhixsnmawvkzkescgqkqviaxtcw/helloWorld-Prefix.pch.gch helloWorld/helloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
-s338863713.950543
-e338863714.531607
+s339397747.140589
+e339397747.754085
 r1
 xProcessPCH
 x/var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fqhixsnmawvkzkescgqkqviaxtcw/helloWorld-Prefix.pch.gch
@@ -594,13 +839,34 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF07#2@43"Precompile helloWorld/helloWorld-Prefix.pch338863713#338863714#0(0"0(0#0#95"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/helloWorld-Prefix.pch8603916224#1686"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld.hmap" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/include" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources" -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/helloWorld-Prefix.pch" -o /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fqhixsnmawvkzkescgqkqviaxtcw/helloWorld-Prefix.pch.gch0#
+lSLF07#2@43"Precompile helloWorld/helloWorld-Prefix.pch339397747#339397747#0(0"0(0#0#95"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/helloWorld-Prefix.pch8608185920#1686"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld.hmap" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/include" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources" -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld/helloWorld-Prefix.pch" -o /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fqhixsnmawvkzkescgqkqviaxtcw/helloWorld-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fwmascniwixnkubklxukpnymyeyq/helloWorld-Prefix.pch.gch helloWorld/helloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s339397326.045829
+e339397326.674411
+r1
+xProcessPCH
+x/var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fwmascniwixnkubklxukpnymyeyq/helloWorld-Prefix.pch.gch
+xhelloWorld/helloWorld-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@43"Precompile helloWorld/helloWorld-Prefix.pch339397326#339397326#0(0"0(0#0#113"/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/helloWorld-Prefix.pch8605953792#1812"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30100 "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld.hmap" "-F/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator" -F/Users/Shared/PhoneGap/Frameworks "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/include" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386" "-I/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources" -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/helloWorld/helloWorld-Prefix.pch" -o /var/folders/wd/wdazs7ORHHK-e5zTq+P7ok+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld-Prefix-fwmascniwixnkubklxukpnymyeyq/helloWorld-Prefix.pch.gch0#
 
 CTouch "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app"
-s339032893.913956
-e339032893.916505
+s339397786.458443
+e339397786.466203
 r1
 xTouch
 x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app
-lSLF07#2@111"Touch /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app339032893#339032893#0(0"0(0#0#0"8613485664#333"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app"0#
+lSLF07#2@111"Touch /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app339397786#339397786#0(0"0(0#0#0"8606810112#333"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/build/Debug-iphonesimulator/helloWorld.app"0#
+
+CTouch "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app"
+s339397327.107127
+e339397327.111303
+r1
+xTouch
+x/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app
+lSLF07#2@129"Touch /Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app339397327#339397327#0(0"0(0#0#0"8604425536#369"    cd "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/corobotController/build/Debug-iphonesimulator/helloWorld.app"0#
 
