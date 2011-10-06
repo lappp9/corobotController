@@ -11,6 +11,8 @@
 	-->
 	<!-- If your application is targeting iOS BEFORE 4.0 you MUST put json2.js from http://www.JSON.org/json2.js into your www directory and include it here -->
 	<script type="text/javascript" charset="utf-8" src="phonegap-1.0.0.js"></script>
+	<script type="text/javascript" charset="utf-8" src="jquery-1.6.4.min.js"></SCRIPT>
+	<script type="text/javascript" charset="utf-8" src="jquery.json2xml.js"></script>
     <script type="text/javascript" charset="utf-8">
 
 
@@ -44,20 +46,24 @@
 	for more details -jm */
 	function onDeviceReady()
 	{
-		// do your thing!
-        startWatch();
+		//starts to watch for the accelerometer movements...
+		startWatch();
 	}
         
         function startWatch() {
             
-            // Update acceleration every 3 seconds
+            // Update acceleration every .3 seconds
+			//can take more options... just not sure what
             var options = { frequency: 30 };
             
             watchID = navigator.accelerometer.watchAcceleration(onSuccess, onError, options);
+			
         }
-
-        // Stop watching the acceleration
-        //
+		
+	  // Stop watching the acceleration
+	  // this is mainly made for a button click or etc.  So onClick='stopWatch()' and it stops tracking accelerometer
+	  // we discussed a 'kill' switch if the iphone was dropped or something, and it shuts off the communication.
+	  // this would shut off the movement of the corobot...
         function stopWatch() {
             if (watchID) {
                 navigator.accelerometer.clearWatch(watchID);
@@ -65,24 +71,40 @@
             }
         }
         
+		
         // onSuccess: Get a snapshot of the current acceleration
-        //
+        // instead of displaying the accelerometer's values directly
+		// i'm using the json2xml to convert them to xml and displaying them instead of sending them...?
         function onSuccess(acceleration) {
-            var element = document.getElementById('accelerometer');
-           
-            element.innerHTML = '<h3>Acceleration X: ' + Math.round(acceleration.x*Math.pow(10,2))/Math.pow(10,2) + '</h3><br />' +
-            '<h3> Acceleration Y: ' + Math.round(acceleration.y*Math.pow(10,2))/Math.pow(10,2) + '</h3><br /><br /><br />' +
-            'Timestamp: '      + acceleration.timestamp + '<br />';
-        }
+		
+			//builds JSON and calls the xml converter to return xml into var 'xml'
+			$(function() {
+			
+				var drive = {
+						translation:  Math.round(acceleration.x*Math.pow(10,2))/Math.pow(10,2),
+						rotation: Math.round(acceleration.y*Math.pow(10,2))/Math.pow(10,2)
+				};
+		
+			var options = { formatOutput: false };
+			var xml = $.json2xml(drive, options);
+			
+			var element = document.getElementById('accelerometer');
+
+            element.innerHTML = 'I cant get the XML to output in this string. It should be here, XML: ' + xml + '</br></br> but its not.  Ill just alert it for now';
+			
+			alert(xml);
+			});
+		}
+
         
         // onError: Failed to get the acceleration
         //
         function onError() {
             alert('onError!');
         }
-
-    
-    </script>
+		
+  </script>
+		  
   </head>
   <body onload="onBodyLoad()">
   	  <h1>Domo arigato, Mr. Coroboto</h1>
