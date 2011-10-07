@@ -17,7 +17,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					993,
+					940,
 					20,
 					48,
 					43,
@@ -34,16 +34,18 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 339559016;
-			PBXWorkspaceStateSaveDate = 339559016;
+			PBXPerProjectTemplateStateSaveDate = 339714494;
+			PBXWorkspaceStateSaveDate = 339714494;
 		};
 		perUserProjectItems = {
-			D2587B8A143D6B2300CF8F65 /* PBXTextBookmark */ = D2587B8A143D6B2300CF8F65 /* PBXTextBookmark */;
-			D2587B8C143D6B2300CF8F65 /* PBXTextBookmark */ = D2587B8C143D6B2300CF8F65 /* PBXTextBookmark */;
-			D2587B8E143D6B2300CF8F65 /* PBXTextBookmark */ = D2587B8E143D6B2300CF8F65 /* PBXTextBookmark */;
-			D2587B90143D6B2300CF8F65 /* PBXTextBookmark */ = D2587B90143D6B2300CF8F65 /* PBXTextBookmark */;
-			D2587B92143D6B2300CF8F65 /* PBXTextBookmark */ = D2587B92143D6B2300CF8F65 /* PBXTextBookmark */;
-			D2587B94143D6B2300CF8F65 /* PBXTextBookmark */ = D2587B94143D6B2300CF8F65 /* PBXTextBookmark */;
+			D20C4DA4143E72EE0057F7AB /* PBXTextBookmark */ = D20C4DA4143E72EE0057F7AB /* PBXTextBookmark */;
+			D27D5469143FA17E002C6EFD /* PBXTextBookmark */ = D27D5469143FA17E002C6EFD /* PBXTextBookmark */;
+			D27D546B143FA17E002C6EFD /* PBXTextBookmark */ = D27D546B143FA17E002C6EFD /* PBXTextBookmark */;
+			D27D546C143FA17E002C6EFD /* PBXTextBookmark */ = D27D546C143FA17E002C6EFD /* PBXTextBookmark */;
+			D2E89387143FA3C200B74111 /* PBXTextBookmark */ = D2E89387143FA3C200B74111 /* PBXTextBookmark */;
+			D2E89388143FA3C200B74111 /* PBXTextBookmark */ = D2E89388143FA3C200B74111 /* PBXTextBookmark */;
+			D2E89389143FA3C200B74111 /* PBXTextBookmark */ = D2E89389143FA3C200B74111 /* PBXTextBookmark */;
+			D2E8938A143FA3C200B74111 /* PBXTextBookmark */ = D2E8938A143FA3C200B74111 /* PBXTextBookmark */;
 		};
 		sourceControlManager = D27072FE1432A663003B14B0 /* Source Control */;
 		userBuildSettings = {
@@ -60,107 +62,34 @@
 			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
 		};
 	};
-	D2587B8A143D6B2300CF8F65 /* PBXTextBookmark */ = {
+	D20C4DA4143E72EE0057F7AB /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = D2587B8B143D6B2300CF8F65 /* phonegap-1.0.0.js */;
-		name = "phonegap-1.0.0.js: 1";
+		fRef = D20C4DA5143E72EE0057F7AB /* xmlExamples.txt */;
+		name = "xmlExamples.txt: 1";
 		rLen = 0;
 		rLoc = 0;
 		rType = 0;
-		vrLen = 1042;
-		vrLoc = 1136;
-	};
-	D2587B8B143D6B2300CF8F65 /* phonegap-1.0.0.js */ = {
-		isa = PBXFileReference;
-		name = "phonegap-1.0.0.js";
-		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/phonegap-1.0.0.js";
-		sourceTree = "<absolute>";
-	};
-	D2587B8C143D6B2300CF8F65 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2587B8D143D6B2300CF8F65 /* jquery-1.6.4.min.js */;
-		name = "jquery-1.6.4.min.js: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 91668;
+		vrLen = 1913;
 		vrLoc = 0;
 	};
-	D2587B8D143D6B2300CF8F65 /* jquery-1.6.4.min.js */ = {
+	D20C4DA5143E72EE0057F7AB /* xmlExamples.txt */ = {
 		isa = PBXFileReference;
-		name = "jquery-1.6.4.min.js";
-		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/jquery-1.6.4.min.js";
+		lastKnownFileType = text;
+		name = xmlExamples.txt;
+		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/xmlExamples.txt";
 		sourceTree = "<absolute>";
 	};
-	D2587B8E143D6B2300CF8F65 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2587B8F143D6B2300CF8F65 /* jquery.json2xml.js */;
-		name = "jquery.json2xml.js: 18";
-		rLen = 0;
-		rLoc = 525;
-		rType = 0;
-		vrLen = 1683;
-		vrLoc = 0;
-	};
-	D2587B8F143D6B2300CF8F65 /* jquery.json2xml.js */ = {
-		isa = PBXFileReference;
-		name = jquery.json2xml.js;
-		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/jquery.json2xml.js";
-		sourceTree = "<absolute>";
-	};
-	D2587B90143D6B2300CF8F65 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2587B91143D6B2300CF8F65 /* test.js */;
-		name = "test.js: 5";
-		rLen = 0;
-		rLoc = 50;
-		rType = 0;
-		vrLen = 50;
-		vrLoc = 0;
-	};
-	D2587B91143D6B2300CF8F65 /* test.js */ = {
-		isa = PBXFileReference;
-		name = test.js;
-		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/test.js";
-		sourceTree = "<absolute>";
-	};
-	D2587B92143D6B2300CF8F65 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2587B93143D6B2300CF8F65 /* index.html */;
-		name = "index.html: 80";
-		rLen = 0;
-		rLoc = 3221;
-		rType = 0;
-		vrLen = 2047;
-		vrLoc = 0;
-	};
-	D2587B93143D6B2300CF8F65 /* index.html */ = {
+	D2587B95143D6B2300CF8F65 /* index.html */ = {
 		isa = PBXFileReference;
 		lastKnownFileType = text.html;
 		name = index.html;
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/index.html";
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1171, 1456}}";
-			sepNavSelRange = "{974, 0}";
-			sepNavVisRange = "{0, 2047}";
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 676}}";
+			sepNavSelRange = "{1515, 0}";
+			sepNavVisRange = "{0, 1571}";
 		};
-	};
-	D2587B94143D6B2300CF8F65 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2587B95143D6B2300CF8F65 /* index.html */;
-		name = "index.html: 17";
-		rLen = 0;
-		rLoc = 974;
-		rType = 0;
-		vrLen = 2047;
-		vrLoc = 0;
-	};
-	D2587B95143D6B2300CF8F65 /* index.html */ = {
-		isa = PBXFileReference;
-		name = index.html;
-		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/index.html";
-		sourceTree = "<absolute>";
 	};
 	D27072BD1432A65F003B14B0 /* helloWorld */ = {
 		isa = PBXExecutable;
@@ -205,5 +134,126 @@
 	D27072FF1432A663003B14B0 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	D27D5469143FA17E002C6EFD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D27D546A143FA17E002C6EFD /* claw.js */;
+		name = "claw.js: 6";
+		rLen = 0;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 298;
+		vrLoc = 0;
+	};
+	D27D546A143FA17E002C6EFD /* claw.js */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.javascript;
+		name = claw.js;
+		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/js/claw.js";
+		sourceTree = "<absolute>";
+	};
+	D27D546B143FA17E002C6EFD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2B00900143F9BC500F24798 /* accelerometer.js */;
+		name = "accelerometer.js: 45";
+		rLen = 0;
+		rLoc = 1639;
+		rType = 0;
+		vrLen = 1794;
+		vrLoc = 118;
+	};
+	D27D546C143FA17E002C6EFD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D27D546D143FA17E002C6EFD /* changeModes.js */;
+		name = "changeModes.js: 6";
+		rLen = 0;
+		rLoc = 139;
+		rType = 0;
+		vrLen = 911;
+		vrLoc = 0;
+	};
+	D27D546D143FA17E002C6EFD /* changeModes.js */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.javascript;
+		name = changeModes.js;
+		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/js/changeModes.js";
+		sourceTree = "<absolute>";
+	};
+	D27D548B143FA1B7002C6EFD /* css.css */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.css;
+		name = css.css;
+		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/css/css.css";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 1066}}";
+			sepNavSelRange = "{393, 0}";
+			sepNavVisRange = "{482, 755}";
+		};
+	};
+	D2B00900143F9BC500F24798 /* accelerometer.js */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.javascript;
+		name = accelerometer.js;
+		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/js/accelerometer.js";
+		sourceTree = "<absolute>";
+	};
+	D2C5595E143F408E009BD845 /* app.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = app.html;
+		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/app.html";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 858}}";
+			sepNavSelRange = "{2269, 0}";
+			sepNavVisRange = "{568, 1759}";
+		};
+	};
+	D2E89387143FA3C200B74111 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D27D548B143FA1B7002C6EFD /* css.css */;
+		name = "css.css: 23";
+		rLen = 0;
+		rLoc = 393;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 482;
+	};
+	D2E89388143FA3C200B74111 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2587B95143D6B2300CF8F65 /* index.html */;
+		name = "index.html: 48";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 1571;
+		vrLoc = 0;
+	};
+	D2E89389143FA3C200B74111 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2C5595E143F408E009BD845 /* app.html */;
+		name = "app.html: 63";
+		rLen = 0;
+		rLoc = 2269;
+		rType = 0;
+		vrLen = 1759;
+		vrLoc = 568;
+	};
+	D2E8938A143FA3C200B74111 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2E8938B143FA3C200B74111 /* app.html */;
+		name = "app.html: 63";
+		rLen = 0;
+		rLoc = 2269;
+		rType = 0;
+		vrLen = 1672;
+		vrLoc = 655;
+	};
+	D2E8938B143FA3C200B74111 /* app.html */ = {
+		isa = PBXFileReference;
+		name = app.html;
+		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/app.html";
+		sourceTree = "<absolute>";
 	};
 }

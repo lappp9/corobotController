@@ -5,28 +5,18 @@
 
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 
-	<!-- iPad/iPhone specific css below, add after your main css >
-	<link rel="stylesheet" media="only screen and (max-device-width: 1024px)" href="ipad.css" type="text/css" />		
-	<link rel="stylesheet" media="only screen and (max-device-width: 480px)" href="iphone.css" type="text/css" />		
-	-->
+	<!--STYLE SHEETS-->
+	<link rel="stylesheet" type="text/css" href="css/css.css" />
+	
+	<!--SCRIPTS -->
 	<!-- If your application is targeting iOS BEFORE 4.0 you MUST put json2.js from http://www.JSON.org/json2.js into your www directory and include it here -->
-	<script type="text/javascript" charset="utf-8" src="phonegap-1.0.0.js"></script>
-	<script type="text/javascript" charset="utf-8" src="jquery-1.6.4.min.js"></SCRIPT>
-	<script type="text/javascript" charset="utf-8" src="jquery.json2xml.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/phonegap-1.0.0.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/jquery-1.6.4.min.js"></SCRIPT>
     <script type="text/javascript" charset="utf-8">
 
-
-	// If you want to prevent dragging, uncomment this section
-	/*
-	function preventBehavior(e) 
-	{ 
-      e.preventDefault(); 
-    };
-	document.addEventListener("touchmove", preventBehavior, false);
-	*/
 	
 	/* If you are supporting your own protocol, the var invokeString will contain any arguments to the app launch.
-	see http://iphonedevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html
+	 see http://iphonedevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html
 	for more details -jm */
 	/*
 	function handleOpenURL(url)
@@ -40,76 +30,22 @@
 		document.addEventListener("deviceready",onDeviceReady,false);
 	}
 	
-	/* When this function is called, PhoneGap has been initialized and is ready to roll */
-	/* If you are supporting your own protocol, the var invokeString will contain any arguments to the app launch.
-	see http://iphonedevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html
-	for more details -jm */
+		
 	function onDeviceReady()
 	{
-		//starts to watch for the accelerometer movements...
-		startWatch();
+		var image = document.getElementById("corobotImage");
+		image.innerHTML = "<img src='images/corobot.jpg'>";
+		
+		var element = document.getElementById("startScreen");
+		element.innerHTML = "<a href='app.html'>Start Corobot</a>";
 	}
         
-        function startWatch() {
-            
-            // Update acceleration every .3 seconds
-			//can take more options... just not sure what
-            var options = { frequency: 30 };
-            
-            watchID = navigator.accelerometer.watchAcceleration(onSuccess, onError, options);
-			
-        }
-		
-	  // Stop watching the acceleration
-	  // this is mainly made for a button click or etc.  So onClick='stopWatch()' and it stops tracking accelerometer
-	  // we discussed a 'kill' switch if the iphone was dropped or something, and it shuts off the communication.
-	  // this would shut off the movement of the corobot...
-        function stopWatch() {
-            if (watchID) {
-                navigator.accelerometer.clearWatch(watchID);
-                watchID = null;
-            }
-        }
-        
-		
-        // onSuccess: Get a snapshot of the current acceleration
-        // instead of displaying the accelerometer's values directly
-		// i'm using the json2xml to convert them to xml and displaying them instead of sending them...?
-        function onSuccess(acceleration) {
-		
-			//builds JSON and calls the xml converter to return xml into var 'xml'
-			$(function() {
-			
-				var drive = {
-						translation:  Math.round(acceleration.x*Math.pow(10,2))/Math.pow(10,2),
-						rotation: Math.round(acceleration.y*Math.pow(10,2))/Math.pow(10,2)
-				};
-		
-			var options = { formatOutput: false };
-			var xml = $.json2xml(drive, options);
-			
-			var element = document.getElementById('accelerometer');
-
-            element.innerHTML = 'I cant get the XML to output in this string. It should be here, XML: ' + xml + '</br></br> but its not.  Ill just alert it for now';
-			
-			alert(xml);
-			});
-		}
-
-        
-        // onError: Failed to get the acceleration
-        //
-        function onError() {
-            alert('onError!');
-        }
-		
+       		
   </script>
 		  
   </head>
   <body onload="onBodyLoad()">
-  	  <h1>Domo arigato, Mr. Coroboto</h1>
-      <p id = "accelerometer">
-        
-      </p>
+  	  <div id ="corobotImage"></div>
+      <div id = "startScreen"></div>
   </body>
 </html>
