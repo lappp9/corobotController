@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no;" />
+
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	
+	<!--STYLE SHEETS-->
+	<link rel="stylesheet" type="text/css" href="css/css.css" />
+	
+	<!-- SCRIPTS -->
+	<!-- If your application is targeting iOS BEFORE 4.0 you MUST put json2.js from http://www.JSON.org/json2.js into your www directory and include it here -->
+	<script type="text/javascript" charset="utf-8" src="js/phonegap-1.0.0.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/jquery-1.6.4.min.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/jquery.json2xml.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/accelerometer.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/claw.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/changeModes.js"></script>
+    <script type="text/javascript" charset="utf-8">
+
+	// If you want to prevent dragging, uncomment this section
+	/*
+	function preventBehavior(e) 
+	{ 
+      e.preventDefault(); 
+    };
+	document.addEventListener("touchmove", preventBehavior, false);
+	*/
+	
+	/* If you are supporting your own protocol, the var invokeString will contain any arguments to the app launch.
+	see http://iphonedevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html
+	for more details -jm */
+	/*
+	function handleOpenURL(url)
+	{
+		// TODO: do something with the url passed in.
+	}
+	*/
+	
+	function onBodyLoad()
+	{		
+		document.addEventListener("deviceready",onDeviceReady,false);
+	}
+	
+	/* If you are supporting your own protocol, the var invokeString will contain any arguments to the app launch.
+	see http://iphonedevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html
+	for more details -jm */
+	
+	function onDeviceReady()
+	{
+		//We'll set the corobot ready to steer upon starting the app. 
+		//then you can opt to use the claw and etc.
+		startWatch();
+	}
+      		
+  </script>
+		  
+  </head>
+  <body onload="onBodyLoad()">
+      <div id = "mainBody">Domo arigato, Mr. Coroboto!</div>
+	  <div id= "tempValueDisplay"></div>
+		
+	  <button type="button" id="claw" onclick="changeModes()">Claw</button>
+  </body>
+</html>

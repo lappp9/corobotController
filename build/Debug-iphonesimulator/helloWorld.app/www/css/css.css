@@ -1,0 +1,81 @@
+div#mainBody
+{
+border:2px solid #a1a1a1;
+padding:10px 40px; 
+background:#dddddd;
+width:380px;
+border-radius:10px;
+-moz-border-radius:25px; /* Firefox 3.6 and earlier */
+font-size:30px;
+text-align:center;
+}
+
+div#startScreen
+{
+border:2px solid #a1a1a1;
+padding:10px 40px; 
+background:#dddddd;
+width:380px;
+border-radius:10px;
+-moz-border-radius:25px;
+font-size:30px;
+text-align:center;
+margin:65px 0px 0px 0px;
+
+}
+
+div#tempValueDisplay
+{
+border:2px solid #a1a1a1;
+padding:18px 20px; 
+background:#9FBCD1;
+width:170px;
+height:160px;
+border-radius:10px;
+-moz-border-radius:25px; 
+font-size:13px;
+text-align:center;
+float:left;
+margin:20px 0px 0px 0px;
+font-size:15px;
+text-align:left;
+}
+
+A:link {text-decoration: none}
+
+#claw
+{
+border:2px solid #a1a1a1;
+padding:18px 20px; 
+background:#FF8D8D;
+width:80px;
+height:80px;
+border-radius:90px;
+-moz-border-radius:25px; 
+font-size:13px;
+text-align:center;
+float:right;
+margin:140px 0px 0px 0px;
+font-size:17px;
+}
+
+#accelerometer
+{
+border:2px solid #a1a1a1;
+padding:18px 20px; 
+background:#FF8D8D;
+width:80px;
+height:80px;
+border-radius:90px;
+-moz-border-radius:25px; 
+font-size:13px;
+text-align:center;
+float:right;
+margin:140px 0px 0px 0px;
+font-size:17px;
+}
+
+#corobotImage
+{
+text-align:center;
+}
