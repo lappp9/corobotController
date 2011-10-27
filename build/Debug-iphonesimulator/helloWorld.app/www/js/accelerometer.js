@@ -39,11 +39,16 @@ function onSuccess(acceleration) {
 	  var options = { formatOutput: false };
 	  var xml = $.json2xml(drive, options);
 	  
+	  
 	  //-----NOTE:----- var XML has the xml data.  we are not using it yet, since we don't know what we're doing yet.
 	  
 	  //this is strictly to show modes are changing from drive(accelerometer) to claw.  displays the actual text of acceleration
-	  var element = document.getElementById("tempValueDisplay");
-	  element.innerHTML = "<br/>Tracking Accelerometer: <br/><br/><br/> Translation value: " + x + "<br/<br/>" + "Rotation value: " + y;
+	  var element = document.getElementById("tempValueDisplayAccelerometer");
+	  
+	  element.innerHTML = "<br/>" + "Tracking Accelerometer: " +
+						  "<br/>" + "<br/>" +
+						  "<br/>" + "Translation value: " + x + 
+						  "<br/>" + "Rotation value: " + y;
 	  
 	  });
 }

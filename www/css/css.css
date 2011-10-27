@@ -1,19 +1,11 @@
 div#mainBody
 {
-border:2px solid #a1a1a1;
-padding:10px 40px; 
-background:#dddddd;
-width:380px;
-border-radius:10px;
--moz-border-radius:25px; /* Firefox 3.6 and earlier */
-font-size:30px;
-text-align:center;
 }
 
 div#startScreen
 {
 border:2px solid #a1a1a1;
-padding:10px 40px; 
+padding:0px 40px 0px; 
 background:#dddddd;
 width:380px;
 border-radius:10px;
@@ -24,26 +16,43 @@ margin:65px 0px 0px 0px;
 
 }
 
-div#tempValueDisplay
+div#tempValueDisplayAccelerometer
 {
 border:2px solid #a1a1a1;
-padding:18px 20px; 
+padding:0px 14px; 
 background:#9FBCD1;
-width:170px;
-height:160px;
+width:145px;
+height:210px;
 border-radius:10px;
 -moz-border-radius:25px; 
 font-size:13px;
 text-align:center;
 float:left;
-margin:20px 0px 0px 0px;
+margin:35px 2px 0px 2px;
+font-size:15px;
+text-align:left;
+}
+
+div#tempValueDisplayTouches
+{
+border:2px solid #a1a1a1;
+padding:0px 20px; 
+background:#9FBCD1;
+width:145px;
+height:210px;
+border-radius:10px;
+-moz-border-radius:25px; 
+font-size:13px;
+text-align:center;
+float:left;
+margin:35px 0px 0px 0px;
 font-size:15px;
 text-align:left;
 }
 
 A:link {text-decoration: none}
 
-#claw
+#stop
 {
 border:2px solid #a1a1a1;
 padding:18px 20px; 
@@ -55,11 +64,11 @@ border-radius:90px;
 font-size:13px;
 text-align:center;
 float:right;
-margin:140px 0px 0px 0px;
+margin:205px 0px 0px 0px;
 font-size:17px;
 }
 
-#accelerometer
+#go
 {
 border:2px solid #a1a1a1;
 padding:18px 20px; 
@@ -71,11 +80,12 @@ border-radius:90px;
 font-size:13px;
 text-align:center;
 float:right;
-margin:140px 0px 0px 0px;
+margin:205px 0px 0px 0px;
 font-size:17px;
 }
 
 #corobotImage
 {
+padding: 10px;
 text-align:center;
 }
