@@ -11,35 +11,31 @@ var rotation;
 var scaleValueToSendCorobot = 0;
 var rotationValueToSendCorobot =0;
 	
-//	//keeps track of pinching gesture.
-//	document.addEventListener('gesturechange', function(event)
-//	{
-//		//TO DO: Remove event listener so pinch doesn't pick up one figure swipes
-//		//document.removeEventListener('touchmove', function(event), false);
-//		
-//		touchPinch(event);
-//	
-//	}, false);
-//	
-//	document.addEventListener('touchstart', function(event) 
-//	{
-//		touchStart(event);
-//	
-//	}, false);
-//	
-//	document.addEventListener('touchmove', function(event) 
-//	{
-//		touchLeftAndRight(event);
-//							  
-//		//if(xValueToSendCorobot >= 100)
-//			{
-//				xValueToSendCorobot = 100;
-//			}
-//							  
-//		touchUpAndDown(event);
-//		displayValues();
-//	
-//	}, false);
+	//keeps track of pinching gesture.
+	document.addEventListener('gesturechange', function(event)
+	{
+		//TO DO: Remove event listener so pinch doesn't pick up one figure swipes
+		//document.removeEventListener('touchmove', function(event), false);
+		
+		touchPinch(event);
+	
+	}, false);
+	
+	document.addEventListener('touchstart', function(event) 
+	{
+		touchStart(event);
+	
+	}, false);
+	
+	document.addEventListener('touchmove', function(event) 
+	{
+		touchLeftAndRight(event);
+							  
+		touchUpAndDown(event);
+							  
+		displayValues();
+	
+	}, false);
 
 	function touchStart(event)
 	{

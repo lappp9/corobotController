@@ -271,7 +271,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>12</integer>
+									<integer>7</integer>
 									<integer>6</integer>
 									<integer>1</integer>
 									<integer>0</integer>
@@ -297,7 +297,7 @@
 							<real>239</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>-19 130 1440 748 0 0 1440 878 </string>
+						<string>6 126 1440 748 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -315,7 +315,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>touches.js</string>
+								<string>accelerometer.js</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -323,11 +323,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>touches.js</string>
+										<string>accelerometer.js</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>D2886459145B434600D328C6</string>
+										<string>D288646D145B513000D328C6</string>
 										<key>history</key>
 										<array>
 											<string>D2FD89C6144E4FF90056F408</string>
@@ -337,10 +337,10 @@
 											<string>D28864201459DA7D00D328C6</string>
 											<string>D288644C145B2F2100D328C6</string>
 											<string>D288644D145B2F2100D328C6</string>
-											<string>D288644E145B2F2100D328C6</string>
-											<string>D2886454145B2FD400D328C6</string>
 											<string>D2886455145B2FD400D328C6</string>
-											<string>D2886456145B2FD400D328C6</string>
+											<string>D2886468145B4FE000D328C6</string>
+											<string>D288646B145B513000D328C6</string>
+											<string>D288646C145B513000D328C6</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -354,7 +354,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1179, 702}}</string>
 								<key>RubberWindowFrame</key>
-								<string>-19 130 1440 748 0 0 1440 878 </string>
+								<string>6 126 1440 748 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -374,7 +374,7 @@
 								<key>Frame</key>
 								<string>{{0, 707}, {1179, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>-19 130 1440 748 0 0 1440 878 </string>
+								<string>6 126 1440 748 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -544,7 +544,7 @@
 		<string>/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>-19 130 1440 748 0 0 1440 878 </string>
+	<string>6 126 1440 748 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
