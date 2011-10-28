@@ -327,7 +327,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>D2886458145B2FE600D328C6</string>
+										<string>D2886459145B434600D328C6</string>
 										<key>history</key>
 										<array>
 											<string>D2FD89C6144E4FF90056F408</string>
@@ -541,6 +541,7 @@
 		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>D27072F51432A663003B14B0</string>
+		<string>/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>-19 130 1440 748 0 0 1440 878 </string>
