@@ -297,7 +297,7 @@
 							<real>239</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>6 126 1440 748 0 0 1440 878 </string>
+						<string>15 122 1440 748 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -327,7 +327,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>D288646D145B513000D328C6</string>
+										<string>D288647A145DCE7C00D328C6</string>
 										<key>history</key>
 										<array>
 											<string>D2FD89C6144E4FF90056F408</string>
@@ -354,7 +354,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1179, 702}}</string>
 								<key>RubberWindowFrame</key>
-								<string>6 126 1440 748 0 0 1440 878 </string>
+								<string>15 122 1440 748 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -374,7 +374,7 @@
 								<key>Frame</key>
 								<string>{{0, 707}, {1179, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>6 126 1440 748 0 0 1440 878 </string>
+								<string>15 122 1440 748 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -541,10 +541,9 @@
 		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>D27072F51432A663003B14B0</string>
-		<string>/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/helloWorld.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>6 126 1440 748 0 0 1440 878 </string>
+	<string>15 122 1440 748 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

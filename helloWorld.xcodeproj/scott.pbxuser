@@ -101,6 +101,11 @@
 			D288646B145B513000D328C6 /* PBXTextBookmark */ = D288646B145B513000D328C6 /* PBXTextBookmark */;
 			D288646C145B513000D328C6 /* PBXTextBookmark */ = D288646C145B513000D328C6 /* PBXTextBookmark */;
 			D288646D145B513000D328C6 /* PBXTextBookmark */ = D288646D145B513000D328C6 /* PBXTextBookmark */;
+			D2886470145B553400D328C6 /* PBXTextBookmark */ = D2886470145B553400D328C6 /* PBXTextBookmark */;
+			D2886473145B554100D328C6 /* PBXTextBookmark */ = D2886473145B554100D328C6 /* PBXTextBookmark */;
+			D2886476145DCD8100D328C6 /* PBXTextBookmark */ = D2886476145DCD8100D328C6 /* PBXTextBookmark */;
+			D2886479145DCDEC00D328C6 /* PBXTextBookmark */ = D2886479145DCDEC00D328C6 /* PBXTextBookmark */;
+			D288647A145DCE7C00D328C6 /* PBXTextBookmark */ = D288647A145DCE7C00D328C6 /* PBXTextBookmark */;
 			D2892C241457042B00C824FB = D2892C241457042B00C824FB /* PBXTextBookmark */;
 			D2892CC1145791DE00C824FB = D2892CC1145791DE00C824FB /* PBXTextBookmark */;
 			D2FD89C6144E4FF90056F408 = D2FD89C6144E4FF90056F408 /* PBXBookmark */;
@@ -239,7 +244,7 @@
 		fRef = D2B00900143F9BC500F24798 /* accelerometer.js */;
 		name = "accelerometer.js: 41";
 		rLen = 0;
-		rLoc = 1100;
+		rLoc = 1081;
 		rType = 0;
 		vrLen = 1735;
 		vrLoc = 248;
@@ -378,7 +383,7 @@
 		fRef = D2B00900143F9BC500F24798 /* accelerometer.js */;
 		name = "accelerometer.js: 44";
 		rLen = 0;
-		rLoc = 1274;
+		rLoc = 1255;
 		rType = 0;
 		vrLen = 1481;
 		vrLoc = 246;
@@ -598,9 +603,59 @@
 		fRef = D2B00900143F9BC500F24798 /* accelerometer.js */;
 		name = "accelerometer.js: 31";
 		rLen = 0;
-		rLoc = 843;
+		rLoc = 824;
 		rType = 0;
 		vrLen = 1422;
+		vrLoc = 240;
+	};
+	D2886470145B553400D328C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2B00900143F9BC500F24798 /* accelerometer.js */;
+		name = "accelerometer.js: 29";
+		rLen = 0;
+		rLoc = 824;
+		rType = 0;
+		vrLen = 1478;
+		vrLoc = 156;
+	};
+	D2886473145B554100D328C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2B00900143F9BC500F24798 /* accelerometer.js */;
+		name = "accelerometer.js: 29";
+		rLen = 0;
+		rLoc = 824;
+		rType = 0;
+		vrLen = 1480;
+		vrLoc = 156;
+	};
+	D2886476145DCD8100D328C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2B00900143F9BC500F24798 /* accelerometer.js */;
+		name = "accelerometer.js: 30";
+		rLen = 0;
+		rLoc = 829;
+		rType = 0;
+		vrLen = 1523;
+		vrLoc = 0;
+	};
+	D2886479145DCDEC00D328C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2B00900143F9BC500F24798 /* accelerometer.js */;
+		name = "accelerometer.js: 28";
+		rLen = 0;
+		rLoc = 682;
+		rType = 0;
+		vrLen = 1533;
+		vrLoc = 25;
+	};
+	D288647A145DCE7C00D328C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2B00900143F9BC500F24798 /* accelerometer.js */;
+		name = "accelerometer.js: 26";
+		rLen = 0;
+		rLoc = 679;
+		rType = 0;
+		vrLen = 1414;
 		vrLoc = 240;
 	};
 	D2892B1C1456F82B00C824FB /* jquery-1.6.4.min.js */ = {
@@ -656,9 +711,9 @@
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/js/accelerometer.js";
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1118, 806}}";
-			sepNavSelRange = "{843, 0}";
-			sepNavVisRange = "{240, 1422}";
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 780}}";
+			sepNavSelRange = "{679, 0}";
+			sepNavVisRange = "{240, 1414}";
 		};
 	};
 	D2FD89C6144E4FF90056F408 /* PBXBookmark */ = {

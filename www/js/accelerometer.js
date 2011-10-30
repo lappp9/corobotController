@@ -23,12 +23,10 @@ function stopWatch() {
 function onSuccess(acceleration) {
 	
 	$(function() {
-	  
+	  	  
 	  var x = Math.round(acceleration.x*Math.pow(10,2))/Math.pow(10,2);
 	  var y = Math.round(acceleration.y*Math.pow(10,2))/Math.pow(10,2);
-	  
-	  alert(x);
-	  
+
 	  //making some jsonish shtuff to send to server... 
 	  var drive = {
 			translation:  x,

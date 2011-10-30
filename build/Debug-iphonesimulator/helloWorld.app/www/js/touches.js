@@ -31,12 +31,8 @@ var rotationValueToSendCorobot =0;
 	{
 		touchLeftAndRight(event);
 							  
-		//if(xValueToSendCorobot >= 100)
-//			{
-//				xValueToSendCorobot = 100;
-//			}
-							  
 		touchUpAndDown(event);
+							  
 		displayValues();
 	
 	}, false);
