@@ -11,8 +11,6 @@
 	<!-- SCRIPTS -->
 	<script type="text/javascript" charset="utf-8" src="libs/phonegap-1.0.0.js"></script>
 	<script type="text/javascript" charset="utf-8" src="libs/jquery-1.6.4.min.js"></script>
-	<script type="text/javascript" charset="utf-8" src="libs/jquery.json2xml.js"></script>
-	<script type="text/javascript" charset="utf-8" src="libs/jquery.use.min.js"></script>
 	<script type="text/javascript" charset="utf-8" src="js/accelerometerService.js"></script>
 	<script type="text/javascript" charset="utf-8" src="js/buttonService.js"></script>
 	<script type="text/javascript" charset="utf-8" src="js/touchService.js"></script>
@@ -37,11 +35,10 @@
 		// TODO: do something with the url passed in.
 	}
 	*/
-	
-	function onBodyLoad()
-	{		
+	$(document).ready(function()
+	{
 		document.addEventListener("deviceready",onDeviceReady,false);     
-	}
+	});
 	
 	/* If you are supporting your own protocol, the var invokeString will contain any arguments to the app launch.
 	see http://iphonedevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html
@@ -52,17 +49,15 @@
 		//stops the screen from scrolling when you touch it!
 		document.ontouchmove = function(event){
         event.preventDefault();
-	}
-		//start watching acceleration
-		startWatch();
+		}
 	}
   </script>
 		  
   </head>
-  <body id="body-main" onload="onBodyLoad()">
+  <body id="body-main">
 	  <div id= "mainBody"></div>
 	  <div id= "tempValueDisplayAccelerometer"></div>
 	  <div id= "tempValueDisplayTouches"></div>
-	  <button type="button" id="stop" onclick="stopAndGo()">Stop</button>
+	  <button type="button" id="go" onclick="stopAndGo()">Go</button>
   </body>
 </html>

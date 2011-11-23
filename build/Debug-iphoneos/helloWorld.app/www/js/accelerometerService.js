@@ -1,54 +1,57 @@
-function startWatch() {
+var onError, onSuccess, sendAccelerometer, setRotation, setTranslation, startWatch, stopWatch, watchID, x, xToSend, y, yToSend;
+watchID = void 0;
+x = 0;
+y = 0;
+xToSend = 0;
+yToSend = 0;
+startWatch = function() {
+  var options;
+  options = {
+    frequency: 30
+  };
+  return watchID = navigator.accelerometer.watchAcceleration(onSuccess, onError, options);
+};
+stopWatch = function() {
+  if (watchID) {
+    navigator.accelerometer.clearWatch(watchID);
+    return watchID = null;
+  }
+};
+onSuccess = function(acceleration) {
+  x = Math.round(acceleration.x * Math.pow(10, 2)) / Math.pow(10, 2);
+  y = Math.round(acceleration.y * Math.pow(10, 2)) / Math.pow(10, 2);
+  xToSend = setTranslation(x);
+  yToSend = setRotation(y);
+  return sendAccelerometer();
+};
+setTranslation = function(x) {
+  if (x >= .5) {
+    return .5;
+  } else if (x <= -.5) {
+    return -.5;
+  } else if (x < .1 && x >= 0) {
+    return 0;
+  } else if (x > -.1 && x <= 0) {
+    return 0;
+  } else {
+    return x;
+  }
+};
+setRotation = function(y) {
+  return y;
+};
+sendAccelerometer = function() {
 	
-	// Update acceleration every .3 seconds
-	//can take more options... just not sure what
-	var options = { frequency: 30 };
+	var request = new XMLHttpRequest();  
+	request.open('GET', '10.0.7.168', false);   
+	request.send(null);  
 	
-	watchID = navigator.accelerometer.watchAcceleration(onSuccess, onError, options);
+	if (request.status == 200)  
+		alert(request.responseText); 
 	
-}
+  return $("#tempValueDisplayAccelerometer").html("UP/DOWN: " + xToSend + "<br/>LEFT/RIGHT: " + yToSend);
+};
 
-// Stop watching the acceleration
-function stopWatch() {
-	if (watchID) {
-		navigator.accelerometer.clearWatch(watchID);
-		watchID = null;
-	}
-}
-
-
-// onSuccess: Get a snapshot of the current acceleration
-// instead of displaying the accelerometer's values directly
-// i'm using the json2xml to convert them to xml and displaying them instead of sending them...?
-function onSuccess(acceleration) {
-		
-	$(function() {
-	  	  	  
-	  var x = Math.round(acceleration.x*Math.pow(10,2))/Math.pow(10,2);
-	  var y = Math.round(acceleration.y*Math.pow(10,2))/Math.pow(10,2);
-
-	  //making some jsonish shtuff to send to server... 
-	  var drive = {
-			translation:  x,
-			rotation: y
-	  };
-	  
-	  //converts json to xml using a jquery dependency (json2xml.js)
-	  var options = { formatOutput: false };
-	  var xml = $.json2xml(drive, options);
-	  
-	  //-----NOTE:----- var XML has the xml data.  we are not using it yet, since we don't know what we're doing yet.
-	  
-	  //displays acceleration to prove it's working...
-	  $('#tempValueDisplayAccelerometer').html("<br/>" + "Tracking Accelerometer: " +
-											   "<br/>" + "<br/>" +
-											   "<br/>" + "Translation value: " + x + 
-											   "<br/>" + "Rotation value: " + y);
-	  });
-}
-
-
-// onError: Failed to get the acceleration
-function onError() {
-            alert('onError!');
-        }
+onError = function() {
+  return alert("onError!");
+};

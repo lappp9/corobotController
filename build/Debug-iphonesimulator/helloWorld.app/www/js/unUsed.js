@@ -1,7 +1,54 @@
-function startClaw() {
+/*
+ 
+ if I decide to refactor the long touchService.js
+
+function determineValueToSendCorobot(current, old, value, identifier)
+{	
+	if(current < old)
+	{
+		value = setValue(value, identifier, true);
+		return value;
+	}
 	
-	//function gets called when entering claw mode.
-	  var element = document.getElementById("tempValueDisplay");
-	  element.innerHTML = "<br/>I was going to get<br/>to the point where we<br/>could swipe a finger and<br/>display the info here.<br/> I will soon.";
-	  	
+	if(current > old)
+	{
+		value = setValue(value, identifier, false);
+		return value;
+	}
+}
+
+function setValue(value, identifier, old)
+{
+	if(old)
+	{
+		if(identifier == "x")
+		{
+			if(value > 312.5)
+			{
+				value = 315;
+				return value;
+			}
+			else
+			{
+				value += 2.5;
+				return value;
+			}
+		}
+	}
+	else
+	{
+		if(identifier == "x")
+		{
+			if(value < 92.5)
+			{
+				value = 90;
+				return value;
+			}
+			else
+			{
+				value -= 2.5;
+				return value;
+			}
+		}
+	}
 }

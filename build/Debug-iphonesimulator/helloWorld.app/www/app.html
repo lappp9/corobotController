@@ -9,13 +9,11 @@
 	<link rel="stylesheet" type="text/css" href="css/css.css" />
 	
 	<!-- SCRIPTS -->
-	<!-- If your application is targeting iOS BEFORE 4.0 you MUST put json2.js from http://www.JSON.org/json2.js into your www directory and include it here -->
-	<script type="text/javascript" charset="utf-8" src="js/phonegap-1.0.0.js"></script>
-	<script type="text/javascript" charset="utf-8" src="js/jquery-1.6.4.min.js"></script>
-	<script type="text/javascript" charset="utf-8" src="js/jquery.json2xml.js"></script>
-	<script type="text/javascript" charset="utf-8" src="js/accelerometer.js"></script>
-	<script type="text/javascript" charset="utf-8" src="js/stopAndGo.js"></script>
-	<script type="text/javascript" charset="utf-8" src="js/touches.js"></script>
+	<script type="text/javascript" charset="utf-8" src="libs/phonegap-1.0.0.js"></script>
+	<script type="text/javascript" charset="utf-8" src="libs/jquery-1.6.4.min.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/accelerometerService.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/buttonService.js"></script>
+	<script type="text/javascript" charset="utf-8" src="js/touchCoffee.js"></script>
 
     <script type="text/javascript" charset="utf-8">
 
@@ -37,11 +35,10 @@
 		// TODO: do something with the url passed in.
 	}
 	*/
-	
-	function onBodyLoad()
-	{		
+	$(document).ready(function()
+	{
 		document.addEventListener("deviceready",onDeviceReady,false);     
-	}
+	});
 	
 	/* If you are supporting your own protocol, the var invokeString will contain any arguments to the app launch.
 	see http://iphonedevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html
@@ -53,14 +50,14 @@
 		document.ontouchmove = function(event){
         event.preventDefault();
 		}
+		
 		//start watching acceleration
 		startWatch();
 	}
-      		
   </script>
 		  
   </head>
-  <body onload="onBodyLoad()">
+  <body id="body-main">
 	  <div id= "mainBody"></div>
 	  <div id= "tempValueDisplayAccelerometer"></div>
 	  <div id= "tempValueDisplayTouches"></div>

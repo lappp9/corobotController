@@ -1,9 +1,7 @@
 #body-start{
-background: black
 }
 
 #body-main{
-background: black
 }
 
 div#tempValueDisplayAccelerometer
@@ -11,7 +9,7 @@ div#tempValueDisplayAccelerometer
 border:2px solid #a1a1a1;
 padding:0px 14px; 
 background:#9FBCD1;
-width:145px;
+width:149px;
 height:210px;
 border-radius:10px;
 -moz-border-radius:25px; 

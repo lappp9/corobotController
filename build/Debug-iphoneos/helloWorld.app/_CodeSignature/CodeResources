@@ -70,7 +70,7 @@
 		</data>
 		<key>Default@2x.png</key>
 		<data>
-		JRw4p+QG/jcYAjy1H03iZ/uDsus=
+		zgrxz0yQ7EQYEKPQASvOudTD8+4=
 		</data>
 		<key>PhoneGap.plist</key>
 		<data>
@@ -110,75 +110,75 @@
 		</data>
 		<key>www/app.html</key>
 		<data>
-		Ry0qEdWlbWa0Us1pMh3mUfrjXYU=
+		T9ECsTOHuugDwM36apR2PRfeLSA=
 		</data>
-		<key>www/coffeescript/accelerometerCoffee.coffee</key>
+		<key>www/coffeescript/accelerometerService.coffee</key>
 		<data>
-		DOiKlyrL3MTrHtSLI7M9gENw81k=
+		qD+OziQIk99H48i5UlbnYzKxc6A=
 		</data>
-		<key>www/coffeescript/testCoffee.coffee</key>
+		<key>www/coffeescript/buttonService.coffee</key>
 		<data>
-		+Cn8xRcd/z0rpZ2cgLM5O61DBiw=
+		W0STobZEjvobe3xzMe6f1SOO49w=
+		</data>
+		<key>www/coffeescript/touchService.coffee</key>
+		<data>
+		H7+W6OcbBBsUw8gPOZYJMuhqWQs=
 		</data>
 		<key>www/css/css.css</key>
 		<data>
-		OP8A0YvlBVl2ki6oxFJNZj/Pkb0=
+		BpqmVgn7rhYVQS79/JsJch64nok=
 		</data>
 		<key>www/images/Default@2x.png</key>
 		<data>
-		XCof6tWRkmcJL1s1o2l1WMp1lsw=
-		</data>
-		<key>www/images/corobot.jpg</key>
-		<data>
-		J9iKfyLYHHmvg8OMpqD+g6Piq4E=
+		qa7vwQUTa3RIN4eoX/xyaatSyFc=
 		</data>
 		<key>www/images/icon.png</key>
 		<data>
 		fBk3lpYTYI/RKgN0djt2Z0wSkcI=
 		</data>
+		<key>www/images/intro.png</key>
+		<data>
+		u4qfjdvpVIxCyebB0zMFvG7ZOqI=
+		</data>
 		<key>www/index.html</key>
 		<data>
-		AscQS8AWF9C0qAG4mGVfdDypet8=
+		JfPDczsOuJM9AIf+/xPiHKqCEeY=
 		</data>
 		<key>www/js/accelerometerService.js</key>
 		<data>
-		flprwpPWP7Hb7A/NNfV0qv60c2U=
+		rSB/jhMg5anoT3DyCONNSVo6j/w=
 		</data>
 		<key>www/js/buttonService.js</key>
 		<data>
-		Kipz869E4n+pewnS/sbbrzoIhKs=
+		juaGqQxwIDFGdzobH5idB4R/rf0=
 		</data>
 		<key>www/js/touchService.js</key>
 		<data>
-		g9H6MLf8LSXHI5IWqjxVUKMntVA=
+		SK5XMLxAvloEoi2QhLrkKLd9WR0=
 		</data>
 		<key>www/js/unUsed.js</key>
 		<data>
-		roMifdAdQcvIWE1poTKyvIBtbRM=
+		eSjY76Dad8yCdIAFoP8LIWZB2bU=
 		</data>
-		<key>www/libs/coffee-script.js</key>
+		<key>www/jsOriginal/accelerometerService.js</key>
 		<data>
-		1y/MADZCgxd4ZZAEDSOgVpGl704=
+		rNHRM1v0PYX7fnkBEgNNwKco1s8=
+		</data>
+		<key>www/jsOriginal/buttonService.js</key>
+		<data>
+		Kipz869E4n+pewnS/sbbrzoIhKs=
+		</data>
+		<key>www/jsOriginal/touchService.js</key>
+		<data>
+		WGLw5/qJ4BtDH6wWE/dQQ4XTapA=
 		</data>
 		<key>www/libs/jquery-1.6.4.min.js</key>
 		<data>
 		K3mWsB2Qt/Qk8qLmBjlHRh20srI=
 		</data>
-		<key>www/libs/jquery.json2xml.js</key>
-		<data>
-		bSIOKb/yOvhce+rXmV579BL8iHk=
-		</data>
-		<key>www/libs/jquery.use.min.js</key>
-		<data>
-		YwGR2PgBWxrIfy+P3LbqstgSnZc=
-		</data>
 		<key>www/libs/phonegap-1.0.0.js</key>
 		<data>
 		A1XC0BupfAgeLgHtM41qckxJ9rE=
-		</data>
-		<key>www/xmlExamples.txt</key>
-		<data>
-		ZKsILU7XEazKetqxtmfHT9vllKg=
 		</data>
 	</dict>
 	<key>rules</key>

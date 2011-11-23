@@ -1,19 +1,9 @@
-div#mainBody
-{
+#body-start{
+background: black
 }
 
-div#startScreen
-{
-border:2px solid #a1a1a1;
-padding:0px 40px 0px; 
-background:#dddddd;
-width:380px;
-border-radius:10px;
--moz-border-radius:25px;
-font-size:30px;
-text-align:center;
-margin:65px 0px 0px 0px;
-
+#body-main{
+background: black
 }
 
 div#tempValueDisplayAccelerometer
@@ -50,8 +40,6 @@ font-size:15px;
 text-align:left;
 }
 
-A:link {text-decoration: none}
-
 #stop
 {
 border:2px solid #a1a1a1;
@@ -84,8 +72,3 @@ margin:205px 0px 0px 0px;
 font-size:17px;
 }
 
-#corobotImage
-{
-padding: 10px;
-text-align:center;
-}
