@@ -26,12 +26,18 @@
         event.preventDefault();
 		}
 		
-		$('#startScreen').html("<img id='corobotImage' src='images/intro.png'>");
-		$('#startScreen').click(function(){
-			$('#corobotImage').fadeOut(1000, function(){
-					window.location.href = "app.html";
-			});
+		$('#startScreen').html('The Corobot Controller');
+		$('#buttonConnect').html('CONNECT');
+		$('#buttonConnect').click(function(){
+			window.location.href = "app.html";
 		});
+		
+		//$('#startScreen').html("<img id='corobotImage' src='images/intro.png'>");
+//		$('#startScreen').click(function(){
+//			$('#corobotImage').fadeOut(1000, function(){
+//					window.location.href = "app.html";
+//			});
+//		});
 	
 	}
 	
@@ -39,5 +45,6 @@
   </head>
   <body id="body-start">
   	  <div id ="startScreen"></div>
+	  <div id= "buttonConnect"></div>
   </body>
 </html>

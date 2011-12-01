@@ -70,7 +70,7 @@
 		</data>
 		<key>Default@2x.png</key>
 		<data>
-		zgrxz0yQ7EQYEKPQASvOudTD8+4=
+		kYTUC9f9WvV9juFjUb5BvlXmW/o=
 		</data>
 		<key>PhoneGap.plist</key>
 		<data>
@@ -110,27 +110,39 @@
 		</data>
 		<key>www/app.html</key>
 		<data>
-		T9ECsTOHuugDwM36apR2PRfeLSA=
+		Oyq0TmGbHOzFmBsAqyBU1DkOvgc=
 		</data>
 		<key>www/coffeescript/accelerometerService.coffee</key>
 		<data>
-		qD+OziQIk99H48i5UlbnYzKxc6A=
+		B5WbqJ/6+1BmHMt5K49PecdWxiU=
 		</data>
 		<key>www/coffeescript/buttonService.coffee</key>
 		<data>
-		W0STobZEjvobe3xzMe6f1SOO49w=
+		MSDXomyIO0K7nrojthGntD/ukbk=
+		</data>
+		<key>www/coffeescript/sendValues.coffee</key>
+		<data>
+		Hkm1aEjXAhBVhQ2qQKO8dDD4aA8=
 		</data>
 		<key>www/coffeescript/touchService.coffee</key>
 		<data>
-		H7+W6OcbBBsUw8gPOZYJMuhqWQs=
+		orkQoPUiQDtWUKaYTa1Kwoshog8=
 		</data>
 		<key>www/css/css.css</key>
 		<data>
-		BpqmVgn7rhYVQS79/JsJch64nok=
+		6xQn+XVwOy0d89QAUcOef7bB+5Q=
 		</data>
 		<key>www/images/Default@2x.png</key>
 		<data>
-		qa7vwQUTa3RIN4eoX/xyaatSyFc=
+		keT35kgGEdEKahI+Nj4Fa1mhsT8=
+		</data>
+		<key>www/images/connectButton.jpg</key>
+		<data>
+		9aUc6PnplvZ7Eh1FSZbQecahpwk=
+		</data>
+		<key>www/images/grunge.jpg</key>
+		<data>
+		kLAKJyvKtD1pAoWwsiIRTbcJalY=
 		</data>
 		<key>www/images/icon.png</key>
 		<data>
@@ -138,27 +150,31 @@
 		</data>
 		<key>www/images/intro.png</key>
 		<data>
-		u4qfjdvpVIxCyebB0zMFvG7ZOqI=
+		wdqdDGv3pDL4gLWmYne7+kTRBhg=
+		</data>
+		<key>www/images/tutorialButton.jpg</key>
+		<data>
+		FOL6jOCYRwAxuJahaEJThJC1A1s=
 		</data>
 		<key>www/index.html</key>
 		<data>
-		JfPDczsOuJM9AIf+/xPiHKqCEeY=
+		sCocWobU2DNYC+jsrzNX73bCnoc=
 		</data>
 		<key>www/js/accelerometerService.js</key>
 		<data>
-		rSB/jhMg5anoT3DyCONNSVo6j/w=
+		dC+vtNA33A/xuvIFVzqj/1dH96w=
 		</data>
 		<key>www/js/buttonService.js</key>
 		<data>
-		juaGqQxwIDFGdzobH5idB4R/rf0=
+		IpYytHNEjohfvixLBH5Mi1mR2a4=
+		</data>
+		<key>www/js/sendValues.js</key>
+		<data>
+		tTQzhqrLewrPDbiv3Zqoc3Rcob8=
 		</data>
 		<key>www/js/touchService.js</key>
 		<data>
-		SK5XMLxAvloEoi2QhLrkKLd9WR0=
-		</data>
-		<key>www/js/unUsed.js</key>
-		<data>
-		eSjY76Dad8yCdIAFoP8LIWZB2bU=
+		6ct29ZPssiMYe/vrVxOMqlpRmPM=
 		</data>
 		<key>www/jsOriginal/accelerometerService.js</key>
 		<data>

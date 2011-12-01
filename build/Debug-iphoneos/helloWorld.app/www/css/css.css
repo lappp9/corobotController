@@ -7,8 +7,7 @@
 div#tempValueDisplayAccelerometer
 {
 border:2px solid #a1a1a1;
-padding:0px 14px; 
-background:#9FBCD1;
+padding:60px 14px 0px 0px; 
 width:149px;
 height:210px;
 border-radius:10px;
@@ -25,7 +24,6 @@ div#tempValueDisplayTouches
 {
 border:2px solid #a1a1a1;
 padding:0px 20px; 
-background:#9FBCD1;
 width:145px;
 height:210px;
 border-radius:10px;
@@ -70,3 +68,53 @@ margin:205px 0px 0px 0px;
 font-size:17px;
 }
 
+#startButton
+{
+border:2px solid #a1a1a1;
+padding:18px 20px; 
+background:#FF8D8D;
+width:80px;
+height:80px;
+border-radius:90px;
+-moz-border-radius:25px; 
+font-size:13px;
+text-align:center;
+float:right;
+margin:205px 0px 0px 0px;
+font-size:17px;
+}
+
+#startScreen{
+   font-family: Georgia, serif;
+   font-size: 46px;
+   margin: 10px 0px 0px 0px;
+}
+
+#buttonConnect {
+   width:118px;
+   margin: 50px 0px 0px 102px;
+   border-top: 1px solid #ffe6a8;
+   background: #ff5900;
+   background: -webkit-gradient(linear, left top, left bottom, from(#ad8307), to(#ff5900));
+   background: -webkit-linear-gradient(top, #ad8307, #ff5900);
+   background: -moz-linear-gradient(top, #ad8307, #ff5900);
+   background: -ms-linear-gradient(top, #ad8307, #ff5900);
+   background: -o-linear-gradient(top, #ad8307, #ff5900);
+   padding: 16.5px 68px;
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+   border-radius: 12px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 24px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+#buttonConnect:active {
+   position:relative;
+   top:3px;
+   }

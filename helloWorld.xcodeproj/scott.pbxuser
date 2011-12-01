@@ -85,32 +85,33 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 343257530;
-			PBXWorkspaceStateSaveDate = 343257530;
+			PBXPerProjectTemplateStateSaveDate = 344215755;
+			PBXWorkspaceStateSaveDate = 344215755;
 		};
 		perUserProjectItems = {
 			D220152D1475BF1F00656F6C /* PBXTextBookmark */ = D220152D1475BF1F00656F6C /* PBXTextBookmark */;
-			D220158D147715E400656F6C /* PBXTextBookmark */ = D220158D147715E400656F6C /* PBXTextBookmark */;
-			D22015F9147AC66100656F6C /* PBXTextBookmark */ = D22015F9147AC66100656F6C /* PBXTextBookmark */;
-			D22015FA147AC66100656F6C /* PBXBookmark */ = D22015FA147AC66100656F6C /* PBXBookmark */;
-			D22015FB147AC66100656F6C /* PBXBookmark */ = D22015FB147AC66100656F6C /* PBXBookmark */;
-			D22015FC147AC66100656F6C /* PBXBookmark */ = D22015FC147AC66100656F6C /* PBXBookmark */;
-			D22016D6147C3E7F00656F6C /* PBXTextBookmark */ = D22016D6147C3E7F00656F6C /* PBXTextBookmark */;
-			D22016D7147C3E7F00656F6C /* PBXTextBookmark */ = D22016D7147C3E7F00656F6C /* PBXTextBookmark */;
-			D220170F147C433F00656F6C /* PBXTextBookmark */ = D220170F147C433F00656F6C /* PBXTextBookmark */;
-			D2201710147C433F00656F6C /* PBXTextBookmark */ = D2201710147C433F00656F6C /* PBXTextBookmark */;
-			D2201715147C4DD800656F6C /* PBXTextBookmark */ = D2201715147C4DD800656F6C /* PBXTextBookmark */;
-			D2201731147C5DA500656F6C /* PBXTextBookmark */ = D2201731147C5DA500656F6C /* PBXTextBookmark */;
-			D220175F147D5BB600656F6C /* PBXTextBookmark */ = D220175F147D5BB600656F6C /* PBXTextBookmark */;
-			D2201760147D5BB600656F6C /* PBXTextBookmark */ = D2201760147D5BB600656F6C /* PBXTextBookmark */;
-			D2201761147D5BB600656F6C /* PBXTextBookmark */ = D2201761147D5BB600656F6C /* PBXTextBookmark */;
-			D2E06DFF14679F3A0037A96F /* PBXTextBookmark */ = D2E06DFF14679F3A0037A96F /* PBXTextBookmark */;
+			D220199A1487132000656F6C /* PBXBookmark */ = D220199A1487132000656F6C /* PBXBookmark */;
+			D220199B1487132000656F6C /* PBXBookmark */ = D220199B1487132000656F6C /* PBXBookmark */;
+			D220199C1487132000656F6C /* PBXBookmark */ = D220199C1487132000656F6C /* PBXBookmark */;
+			D220199D1487132000656F6C /* PBXTextBookmark */ = D220199D1487132000656F6C /* PBXTextBookmark */;
+			D220199E1487132000656F6C /* PBXTextBookmark */ = D220199E1487132000656F6C /* PBXTextBookmark */;
+			D22019A01487132000656F6C /* PBXTextBookmark */ = D22019A01487132000656F6C /* PBXTextBookmark */;
+			D22019A11487132000656F6C /* PBXTextBookmark */ = D22019A11487132000656F6C /* PBXTextBookmark */;
+			D22019A31487132000656F6C /* PBXTextBookmark */ = D22019A31487132000656F6C /* PBXTextBookmark */;
+			D22019A41487132000656F6C /* PBXTextBookmark */ = D22019A41487132000656F6C /* PBXTextBookmark */;
+			D22019A51487132000656F6C /* PBXTextBookmark */ = D22019A51487132000656F6C /* PBXTextBookmark */;
+			D22019A61487132000656F6C /* PBXTextBookmark */ = D22019A61487132000656F6C /* PBXTextBookmark */;
+			D22019A81487132000656F6C /* PBXTextBookmark */ = D22019A81487132000656F6C /* PBXTextBookmark */;
+			D22019A91487132000656F6C /* PBXTextBookmark */ = D22019A91487132000656F6C /* PBXTextBookmark */;
+			D22019AA1487132000656F6C /* PBXTextBookmark */ = D22019AA1487132000656F6C /* PBXTextBookmark */;
+			D22019AB1487132000656F6C /* PBXTextBookmark */ = D22019AB1487132000656F6C /* PBXTextBookmark */;
+			D22019AC1487132000656F6C /* PBXTextBookmark */ = D22019AC1487132000656F6C /* PBXTextBookmark */;
+			D22019AD1487132000656F6C /* PBXTextBookmark */ = D22019AD1487132000656F6C /* PBXTextBookmark */;
 			D2E06EEA1467B37A0037A96F /* PBXBookmark */ = D2E06EEA1467B37A0037A96F /* PBXBookmark */;
 			D2E06EEC1467B37A0037A96F /* PBXBookmark */ = D2E06EEC1467B37A0037A96F /* PBXBookmark */;
 			D2E06EEE1467B37A0037A96F /* PBXTextBookmark */ = D2E06EEE1467B37A0037A96F /* PBXTextBookmark */;
 			D2E06EEF1467B37A0037A96F /* PlistBookmark */ = D2E06EEF1467B37A0037A96F /* PlistBookmark */;
 			D2E06EF01467B37A0037A96F /* PBXTextBookmark */ = D2E06EF01467B37A0037A96F /* PBXTextBookmark */;
-			D2E071F514703B9B0037A96F /* PBXTextBookmark */ = D2E071F514703B9B0037A96F /* PBXTextBookmark */;
 			D2E071FF14703B9B0037A96F /* PBXBookmark */ = D2E071FF14703B9B0037A96F /* PBXBookmark */;
 			D2E0720014703B9B0037A96F /* PBXBookmark */ = D2E0720014703B9B0037A96F /* PBXBookmark */;
 		};
@@ -143,9 +144,10 @@
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/css/css.css";
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1118, 923}}";
-			sepNavSelRange = "{13, 0}";
-			sepNavVisRange = "{0, 750}";
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 1768}}";
+			sepNavSelRange = "{118, 0}";
+			sepNavVisRange = "{0, 793}";
+			sepNavWindowFrame = "{{107, 96}, {1277, 693}}";
 		};
 	};
 	D220152D1475BF1F00656F6C /* PBXTextBookmark */ = {
@@ -160,142 +162,205 @@
 	};
 	D220152E1475BF1F00656F6C /* touchService.js */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.javascript;
 		name = touchService.js;
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/jsOriginal/touchService.js";
 		sourceTree = "<absolute>";
 	};
-	D220158D147715E400656F6C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D28864191459DA7D00D328C6 /* unUsed.js */;
-		name = "unUsed.js: 3";
-		rLen = 0;
-		rLoc = 8;
-		rType = 0;
-		vrLen = 718;
-		vrLoc = 0;
-	};
-	D22015F9147AC66100656F6C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D216D1441457BC430006663A /* css.css */;
-		name = "css.css: 2";
-		rLen = 0;
-		rLoc = 13;
-		rType = 0;
-		vrLen = 750;
-		vrLoc = 0;
-	};
-	D22015FA147AC66100656F6C /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = D2E06E941467A2550037A96F /* Default@2x.png */;
-	};
-	D22015FB147AC66100656F6C /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = D2E06DA514679C2E0037A96F /* icon.png */;
-	};
-	D22015FC147AC66100656F6C /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = D22015FD147AC66100656F6C /* intro.png */;
-	};
 	D22015FD147AC66100656F6C /* intro.png */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = image.png;
 		name = intro.png;
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/images/intro.png";
 		sourceTree = "<absolute>";
 	};
-	D22016D6147C3E7F00656F6C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2E0720614703B9B0037A96F /* index.html */;
-		name = "index.html: 31";
-		rLen = 48;
-		rLoc = 943;
-		rType = 0;
-		vrLen = 1150;
-		vrLoc = 0;
-	};
-	D22016D7147C3E7F00656F6C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2E0720814703B9B0037A96F /* app.html */;
-		name = "app.html: 50";
-		rLen = 75;
-		rLoc = 1782;
-		rType = 0;
-		vrLen = 1822;
-		vrLoc = 0;
-	};
-	D220170F147C433F00656F6C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2E070A8146DC9600037A96F /* buttonService.js */;
-		name = "buttonService.js: 14";
-		rLen = 0;
-		rLoc = 387;
-		rType = 0;
-		vrLen = 387;
-		vrLoc = 0;
-	};
-	D2201710147C433F00656F6C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2E070AA146DC9600037A96F /* touchService.js */;
-		name = "touchService.js: 71";
-		rLen = 3;
-		rLoc = 2237;
-		rType = 0;
-		vrLen = 1406;
-		vrLoc = 1393;
-	};
-	D2201715147C4DD800656F6C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2E0720A14703B9B0037A96F /* touchService.coffee */;
-		name = "touchService.coffee: 104";
-		rLen = 0;
-		rLoc = 2324;
-		rType = 0;
-		vrLen = 1385;
-		vrLoc = 1197;
-	};
-	D2201731147C5DA500656F6C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2E0720C14703B9B0037A96F /* buttonService.coffee */;
-		name = "buttonService.coffee: 1";
-		rLen = 0;
-		rLoc = 12;
-		rType = 0;
-		vrLen = 368;
-		vrLoc = 0;
-	};
-	D220175F147D5BB600656F6C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2E0722814703BBA0037A96F /* accelerometerService.coffee */;
-		name = "accelerometerService.coffee: 40";
-		rLen = 0;
-		rLoc = 812;
-		rType = 0;
-		vrLen = 844;
-		vrLoc = 0;
-	};
-	D2201760147D5BB600656F6C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2E070AE146DC9600037A96F /* accelerometerService.js */;
-		name = "accelerometerService.js: 44";
-		rLen = 0;
-		rLoc = 1060;
-		rType = 0;
-		vrLen = 1265;
-		vrLoc = 160;
-	};
-	D2201761147D5BB600656F6C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2201762147D5BB600656F6C /* accelerometerService.js */;
-		name = "accelerometerService.js: 44";
-		rLen = 0;
-		rLoc = 1060;
-		rType = 0;
-		vrLen = 1265;
-		vrLoc = 160;
-	};
 	D2201762147D5BB600656F6C /* accelerometerService.js */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.javascript;
 		name = accelerometerService.js;
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/js/accelerometerService.js";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2588, 910}}";
+			sepNavSelRange = "{1893, 0}";
+			sepNavVisRange = "{493, 1540}";
+			sepNavWindowFrame = "{{61, 138}, {1277, 693}}";
+		};
+	};
+	D220199A1487132000656F6C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D2E06E941467A2550037A96F /* Default@2x.png */;
+	};
+	D220199B1487132000656F6C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D2E06DA514679C2E0037A96F /* icon.png */;
+	};
+	D220199C1487132000656F6C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D22015FD147AC66100656F6C /* intro.png */;
+	};
+	D220199D1487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2201762147D5BB600656F6C /* accelerometerService.js */;
+		name = "accelerometerService.js: 65";
+		rLen = 0;
+		rLoc = 1893;
+		rType = 0;
+		vrLen = 1540;
+		vrLoc = 493;
+	};
+	D220199E1487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D220199F1487132000656F6C /* sendValues.js */;
+		name = "sendValues.js: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 68;
+		vrLoc = 0;
+	};
+	D220199F1487132000656F6C /* sendValues.js */ = {
+		isa = PBXFileReference;
+		name = sendValues.js;
+		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/js/sendValues.js";
+		sourceTree = "<absolute>";
+	};
+	D22019A01487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2E070A8146DC9600037A96F /* buttonService.js */;
+		name = "buttonService.js: 19";
+		rLen = 0;
+		rLoc = 793;
+		rType = 0;
+		vrLen = 902;
+		vrLoc = 0;
+	};
+	D22019A11487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D22019A21487132000656F6C /* buttonService.js */;
+		name = "buttonService.js: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 589;
+		vrLoc = 0;
+	};
+	D22019A21487132000656F6C /* buttonService.js */ = {
+		isa = PBXFileReference;
+		name = buttonService.js;
+		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/jsOriginal/buttonService.js";
+		sourceTree = "<absolute>";
+	};
+	D22019A31487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2E071F614703B9B0037A96F /* accelerometerService.js */;
+		name = "accelerometerService.js: 40";
+		rLen = 0;
+		rLoc = 1197;
+		rType = 0;
+		vrLen = 1199;
+		vrLoc = 0;
+	};
+	D22019A41487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2E070AA146DC9600037A96F /* touchService.js */;
+		name = "touchService.js: 105";
+		rLen = 0;
+		rLoc = 3427;
+		rType = 0;
+		vrLen = 1700;
+		vrLoc = 0;
+	};
+	D22019A51487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2E0720C14703B9B0037A96F /* buttonService.coffee */;
+		name = "buttonService.coffee: 27";
+		rLen = 0;
+		rLoc = 718;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 0;
+	};
+	D22019A61487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D22019A71487132000656F6C /* sendValues.coffee */;
+		name = "sendValues.coffee: 4";
+		rLen = 25;
+		rLoc = 76;
+		rType = 0;
+		vrLen = 122;
+		vrLoc = 0;
+	};
+	D22019A71487132000656F6C /* sendValues.coffee */ = {
+		isa = PBXFileReference;
+		name = sendValues.coffee;
+		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/coffeescript/sendValues.coffee";
+		sourceTree = "<absolute>";
+	};
+	D22019A81487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2E0720A14703B9B0037A96F /* touchService.coffee */;
+		name = "touchService.coffee: 130";
+		rLen = 760;
+		rLoc = 3018;
+		rType = 0;
+		vrLen = 1894;
+		vrLoc = 2218;
+	};
+	D22019A91487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2E0720814703B9B0037A96F /* app.html */;
+		name = "app.html: 14";
+		rLen = 0;
+		rLoc = 581;
+		rType = 0;
+		vrLen = 1622;
+		vrLoc = 582;
+	};
+	D22019AA1487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2E0720614703B9B0037A96F /* index.html */;
+		name = "index.html: 29";
+		rLen = 0;
+		rLoc = 880;
+		rType = 0;
+		vrLen = 1375;
+		vrLoc = 0;
+	};
+	D22019AB1487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D216D1441457BC430006663A /* css.css */;
+		name = "css.css: 10";
+		rLen = 0;
+		rLoc = 118;
+		rType = 0;
+		vrLen = 793;
+		vrLoc = 0;
+	};
+	D22019AC1487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2E0722814703BBA0037A96F /* accelerometerService.coffee */;
+		name = "accelerometerService.coffee: 68";
+		rLen = 0;
+		rLoc = 1470;
+		rType = 0;
+		vrLen = 1118;
+		vrLoc = 385;
+	};
+	D22019AD1487132000656F6C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D22019AE1487132000656F6C /* accelerometerService.coffee */;
+		name = "accelerometerService.coffee: 68";
+		rLen = 0;
+		rLoc = 1470;
+		rType = 0;
+		vrLen = 1118;
+		vrLoc = 385;
+	};
+	D22019AE1487132000656F6C /* accelerometerService.coffee */ = {
+		isa = PBXFileReference;
+		name = accelerometerService.coffee;
+		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/coffeescript/accelerometerService.coffee";
 		sourceTree = "<absolute>";
 	};
 	D27072BD1432A65F003B14B0 /* helloWorld */ = {
@@ -341,35 +406,6 @@
 	D27072FF1432A663003B14B0 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
-	};
-	D28864191459DA7D00D328C6 /* unUsed.js */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.javascript;
-		name = unUsed.js;
-		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/js/unUsed.js";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1118, 715}}";
-			sepNavSelRange = "{8, 0}";
-			sepNavVisRange = "{0, 718}";
-		};
-	};
-	D2892B6F1456FCC000C824FB /* xmlExamples.txt */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = text;
-		name = xmlExamples.txt;
-		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/xmlExamples.txt";
-		sourceTree = "<absolute>";
-	};
-	D2E06DFF14679F3A0037A96F /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2892B6F1456FCC000C824FB /* xmlExamples.txt */;
-		name = "xmlExamples.txt: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1913;
-		vrLoc = 0;
 	};
 	D2E06EEA1467B37A0037A96F /* PBXBookmark */ = {
 		isa = PBXBookmark;
@@ -438,9 +474,9 @@
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/js/buttonService.js";
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1118, 647}}";
-			sepNavSelRange = "{387, 0}";
-			sepNavVisRange = "{0, 387}";
+			sepNavIntBoundsRect = "{{0, 0}, {2420, 668}}";
+			sepNavSelRange = "{793, 0}";
+			sepNavVisRange = "{0, 902}";
 		};
 	};
 	D2E070AA146DC9600037A96F /* touchService.js */ = {
@@ -450,32 +486,11 @@
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/js/touchService.js";
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2091, 1287}}";
-			sepNavSelRange = "{2237, 3}";
-			sepNavVisRange = "{1393, 1406}";
+			sepNavIntBoundsRect = "{{0, 0}, {5248, 1495}}";
+			sepNavSelRange = "{3427, 0}";
+			sepNavVisRange = "{0, 1700}";
+			sepNavWindowFrame = "{{38, 159}, {1277, 693}}";
 		};
-	};
-	D2E070AE146DC9600037A96F /* accelerometerService.js */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.javascript;
-		name = accelerometerService.js;
-		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/js/accelerometerService.js";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1118, 728}}";
-			sepNavSelRange = "{1060, 0}";
-			sepNavVisRange = "{160, 1265}";
-		};
-	};
-	D2E071F514703B9B0037A96F /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = D2E071F614703B9B0037A96F /* accelerometerService.js */;
-		name = "accelerometerService.js: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1199;
-		vrLoc = 0;
 	};
 	D2E071F614703B9B0037A96F /* accelerometerService.js */ = {
 		isa = PBXFileReference;
@@ -483,6 +498,11 @@
 		name = accelerometerService.js;
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/jsOriginal/accelerometerService.js";
 		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 668}}";
+			sepNavSelRange = "{1197, 0}";
+			sepNavVisRange = "{0, 1199}";
+		};
 	};
 	D2E071FF14703B9B0037A96F /* PBXBookmark */ = {
 		isa = PBXBookmark;
@@ -499,9 +519,9 @@
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/index.html";
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1118, 647}}";
-			sepNavSelRange = "{943, 48}";
-			sepNavVisRange = "{0, 1150}";
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 663}}";
+			sepNavSelRange = "{880, 0}";
+			sepNavVisRange = "{0, 1375}";
 		};
 	};
 	D2E0720814703B9B0037A96F /* app.html */ = {
@@ -511,9 +531,9 @@
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/app.html";
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1118, 832}}";
-			sepNavSelRange = "{1782, 75}";
-			sepNavVisRange = "{0, 1822}";
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 845}}";
+			sepNavSelRange = "{581, 0}";
+			sepNavVisRange = "{582, 1622}";
 		};
 	};
 	D2E0720A14703B9B0037A96F /* touchService.coffee */ = {
@@ -523,9 +543,9 @@
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/coffeescript/touchService.coffee";
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1118, 1417}}";
-			sepNavSelRange = "{2324, 0}";
-			sepNavVisRange = "{1197, 1385}";
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 1950}}";
+			sepNavSelRange = "{3018, 760}";
+			sepNavVisRange = "{2218, 1894}";
 		};
 	};
 	D2E0720C14703B9B0037A96F /* buttonService.coffee */ = {
@@ -536,8 +556,8 @@
 		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1118, 645}}";
-			sepNavSelRange = "{12, 0}";
-			sepNavVisRange = "{0, 368}";
+			sepNavSelRange = "{718, 0}";
+			sepNavVisRange = "{0, 718}";
 		};
 	};
 	D2E0722814703BBA0037A96F /* accelerometerService.coffee */ = {
@@ -547,9 +567,10 @@
 		path = "/Users/scott/Desktop/SCOTT BARRY/Corobot App/corobotController/www/coffeescript/accelerometerService.coffee";
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1118, 668}}";
-			sepNavSelRange = "{812, 0}";
-			sepNavVisRange = "{0, 844}";
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 923}}";
+			sepNavSelRange = "{1470, 0}";
+			sepNavVisRange = "{423, 1080}";
+			sepNavWindowFrame = "{{84, 117}, {1277, 693}}";
 		};
 	};
 }

@@ -2,13 +2,15 @@ oldUpAndDown = undefined
 oldLeftAndRight = undefined
 oldRotation = undefined
 oldScale = undefined
+closedStart = undefined
+closedEnd = undefined
 
-xValueToSendCorobot = 90
-yValueToSendCorobot = -70
+xValueToSendCorobot = .15
+yValueToSendCorobot = .15
 
 rotationValueToSendCorobot = 0
+scaleValueToSendCorobot = 'g.close_cmd'
 
-scaleValueToSendCorobot = undefined
 scaleCurrent = undefined
 rotationCurrent = undefined
 xStart = undefined
@@ -17,11 +19,23 @@ yCurrent = undefined
 
 document.addEventListener('gesturechange', (event)->
 	
-		touchScale(event)
 		touchRotation(event)
-		sendValues()
+		sendGestureValues()
 , false)
 
+document.addEventListener('gesturestart', (event)->
+ 
+	closedStart = roundNumber(event.scale,2)
+	
+, false)
+ 
+document.addEventListener('gestureend', (event)->
+ 
+	closedEnd = roundNumber(event.scale,2)
+	openOrClose()
+	
+, false)
+ 
 document.addEventListener('touchstart', (event)->
 	
 		touchStart(event)
@@ -33,7 +47,7 @@ document.addEventListener('touchmove', (event)->
 		if event.touches.length is 1
 				touchLeftAndRight(event)
 				touchUpAndDown(event)
-				sendValues()
+				sendGestureValues()
 , false)
 	
 touchStart = (event) ->
@@ -42,68 +56,94 @@ touchStart = (event) ->
 touchLeftAndRight = (event) ->
 		xCurrent = event.touches[0].pageX
 		
-		if xCurrent < oldLeftAndRight
-			if xValueToSendCorobot > 313.5
-				xValueToSendCorobot = 315
-			else
-				xValueToSendCorobot += 2.5
-		
 		if xCurrent > oldLeftAndRight
-			if xValueToSendCorobot < 92.5
-				xValueToSendCorobot = 90
+			if xValueToSendCorobot > .34
+				xValueToSendCorobot = .35
 			else
-				xValueToSendCorobot -= 2.5
+				xValueToSendCorobot += .005
+		
+		if xCurrent < oldLeftAndRight
+			if xValueToSendCorobot < .16
+				xValueToSendCorobot = .15
+			else
+				xValueToSendCorobot -= .005
 	
 		oldLeftAndRight = xCurrent
 
 touchRotation = (event) ->
-	rotationCurrent = Math.round(event.rotation*Math.pow(10,2))/Math.pow(10,2);
+	rotationCurrent = roundNumber(event.rotation,2)
+	
+	if rotationCurrent < .3 and rotationCurrent > -.3
+		rotationValueToSendCorobot = 0
 	
 	if rotationCurrent > oldRotation
-		if rotationValueToSendCorobot > 87.5
-			rotationValueToSendCorobot = 90
+		if rotationValueToSendCorobot > 1.45
+			rotationValueToSendCorobot = 1.5
 		else
-			rotationValueToSendCorobot += 2.5
+			rotationValueToSendCorobot += .05
 	
 	if rotationCurrent < oldRotation
-		if rotationValueToSendCorobot < -87.5
-			rotationValueToSendCorobot = -90
+		if rotationValueToSendCorobot < -1.45
+			rotationValueToSendCorobot = -1.5
 		else
-			rotationValueToSendCorobot -=2.5
+			rotationValueToSendCorobot -=.05
 			
 	oldRotation = rotationCurrent
-
-touchScale = (event) ->
-	scaleCurrent = Math.round(event.scale*Math.pow(10,2))/Math.pow(10,2);
-
-	if scaleCurrent > oldScale
-		scaleValueToSendCorobot = 'open_cmd'
-	
-	if scaleCurrent < oldScale
-		scaleValueToSendCorobot = 'close_cmd'
-			
-	oldScale = scaleCurrent
 	
 touchUpAndDown = (event) ->
 	yCurrent = event.touches[0].pageY;
 	
 	if yCurrent < oldUpAndDown
-		if yValueToSendCorobot > 298.5
-			yValueToSendCorobot = 300
+		if yValueToSendCorobot > .34
+			yValueToSendCorobot = .35
 		else 
-			yValueToSendCorobot += 2.5
+			yValueToSendCorobot += .005
 	
 	if yCurrent > oldUpAndDown
-		if yValueToSendCorobot < -72.5
-			yValueToSendCorobot = -75
+		if yValueToSendCorobot < -.14
+			yValueToSendCorobot = -.15
 		else
-			yValueToSendCorobot -=2.5
+			yValueToSendCorobot -=.005
 	
 	oldUpAndDown = yCurrent
-		
-sendValues = ->
+
+roundNumber = (num, dec) ->
+	Math.round(num * Math.pow(10, dec)) / Math.pow(10, dec)
 	
-	$('#tempValueDisplayTouches').html	"X value: " + xValueToSendCorobot + 
-										"<br/>" + "Y Value: " + yValueToSendCorobot + 
+openOrClose = ->
+	if((closedStart - closedEnd) > .5)
+		scaleValueToSendCorobot = 'g.close_cmd'
+		request = "<?xml version='1.0'?>" + 
+		"<methodCall><methodName>" + scaleValueToSendCorobot + "</methodName>" + 
+		"</methodCall>"
+		talkToCorobot(request)
+	
+	if((closedStart - closedEnd) < -2)
+		scaleValueToSendCorobot = 'g.open_cmd'
+		request = "<?xml version='1.0'?>" + 
+		"<methodCall><methodName>" + scaleValueToSendCorobot + "</methodName>" + 
+		"</methodCall>"
+		talkToCorobot(request)
+
+sendGestureValues = ->
+	
+	request = "<?xml version='1.0'?>" + 
+	"<methodCall><methodName>l.setpose_cmd</methodName>" + 
+	"<params><param><value><double>" + roundNumber(xValueToSendCorobot,2) + "</double></value></param>" + 
+	"<param><value><double>" + roundNumber(yValueToSendCorobot,2) + "</double></value></param>"+ 
+	"<param><value><double>0.0</double></value></param>"+ 
+	"<param><value><double>0.0</double></value></param>"+ 
+	"<param><value><double>0.0</double></value></param>"+ 
+	"<param><value><double>0.0</double></value></param>"+ 
+	"<param><value><double>" + roundNumber(rotationValueToSendCorobot, 2) + "</double></value></param>"+ 
+	"<param><value><double>0.0</double></value></param>"+ 
+	"<param><value><double>0.0</double></value></param>"+ 
+
+	"</params></methodCall>"
+		
+	talkToCorobot(request)
+	
+	$('#tempValueDisplayTouches').html	"X value: " + roundNumber(xValueToSendCorobot,2) + 
+										"<br/>" + "Y Value: " + roundNumber(yValueToSendCorobot,2) + 
 										"<br/>" + "Scale: " + scaleValueToSendCorobot + 
-										"<br/>" + "Rotation: " + rotationValueToSendCorobot
+										"<br/>" + "Rotation: " + roundNumber(rotationValueToSendCorobot,2)

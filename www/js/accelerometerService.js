@@ -1,4 +1,4 @@
-var onError, onSuccess, sendAccelerometer, setRotation, setTranslation, startWatch, stopWatch, watchID, x, xToSend, y, yToSend;
+var onError, onSuccess, roundNumber, sendAccelerometer, setRotation, setTranslation, startWatch, stopWatch, watchID, x, xToSend, y, yToSend;
 watchID = void 0;
 x = 0;
 y = 0;
@@ -18,11 +18,18 @@ stopWatch = function() {
   }
 };
 onSuccess = function(acceleration) {
-  x = Math.round(acceleration.x * Math.pow(10, 2)) / Math.pow(10, 2);
-  y = Math.round(acceleration.y * Math.pow(10, 2)) / Math.pow(10, 2);
+  x = roundNumber(acceleration.x, 2);
+  y = roundNumber(acceleration.y, 3);
+  y = y * 100;
+  y = roundNumber(y, 1);
+  console.log(yToSend);
   xToSend = setTranslation(x);
   yToSend = setRotation(y);
+  yToSend = yToSend * Math.PI / 180.0;
   return sendAccelerometer();
+};
+roundNumber = function(num, dec) {
+  return Math.round(num * Math.pow(10, dec)) / Math.pow(10, dec);
 };
 setTranslation = function(x) {
   if (x >= .5) {
@@ -38,18 +45,23 @@ setTranslation = function(x) {
   }
 };
 setRotation = function(y) {
-  return y;
+  if (y >= 30) {
+    return 30;
+  } else if (y <= -30) {
+    return -30;
+  } else if (y < 10 && y >= 0) {
+    return 0;
+  } else if (y > -10 && y <= 0) {
+    return 0;
+  } else {
+    return y;
+  }
 };
 sendAccelerometer = function() {
-	
-	var request = new XMLHttpRequest();  
-	request.open('GET', 'http://localhost:8000/client.html', false);   
-	request.send(null);  
-	
-	if (request.status == 0)  
-		console.log(request.responseText);  
-	
-  return $("#tempValueDisplayAccelerometer").html("UP/DOWN: " + xToSend + "<br/>LEFT/RIGHT: " + yToSend);
+  var request;
+  request = "<?xml version='1.0'?>" + "<methodCall><methodName>p.set_cmd_vel</methodName>" + "<params><param><value><double>" + xToSend + "</double></value></param>" + "<param><value><double>0.0</double></value></param>" + "<param><value><double>" + yToSend + "</double></value></param>" + "<param><value><int>1</int></value></param>" + "</params></methodCall>";
+  talkToCorobot(request);
+  return $("#tempValueDisplayAccelerometer").html("UP/DOWN: " + xToSend + "<br/>LEFT/RIGHT: " + roundNumber(yToSend, 2));
 };
 onError = function() {
   return alert("onError!");
